@@ -288,7 +288,7 @@ function processAchievements(list, base)
       else
       {
         var count = 0;
-        $.each(window.user.stats, function (i, obj)
+        $.each(window.user.stats, function (j, obj)
         {
           if (obj.name == list[i].count)
             count = obj.value;
