@@ -264,6 +264,9 @@ function processAchievements(list, base)
       $rate.addClass('medium');
     else
       $rate.addClass('hard');
+    // difficulty
+    if (list[i].difficulty != undefined)
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag difficulty ' + list[i].difficulty + '">&nbsp;</span>');
     // locks
     if (list[i].event != undefined)
       $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock event">&nbsp;</span>');

@@ -235,19 +235,32 @@ article div:nth-of-type(1) p:nth-of-type(2)
   background-repeat: no-repeat;
   background-position: 2px 2px;
   width: 12px;
-  height: 12px;
 }
+
+.difficulty
+{
+  background-repeat: repeat-x;
+  background-position: 0px 2px;
+  padding: 2px 0px;
+}
+
+.h { width: 12px; }
+.vh { width: 24px; }
+.ok { width: 36px; }
+.dw { width: 48px; }
 
 .event { background-image: url(../images/clock.png); }
 .community { background-image: url(../images/heart.png); }
 .dlc { background-image: url(../images/dollar.png); }
+.difficulty { background-image: url(../images/skull.png); }
 
 .tag:after { content: "%"; }
 .lock:after { content: none; }
+.difficulty:after { content: none; }
  
-.easy { border-color: #4d4; background-color: #4d4; }
-.medium { border-color: #fd0; background-color: #fd0; }
-.hard { border-color: #f40; background-color: #f40; }
+.easy, .h, .vh { border-color: #4d4; background-color: #4d4; }
+.medium, .ok { border-color: #fd0; background-color: #fd0; }
+.hard, .dw { border-color: #f40; background-color: #f40; }
 .lock { border-color: #88f; background-color: #88f; }
 
 /**

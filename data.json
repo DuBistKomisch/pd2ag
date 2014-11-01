@@ -377,7 +377,8 @@
         "rate": 1.91,
         "max": 25,
         "count": "halloween_10_stats",
-        "community": true
+        "community": true,
+        "difficulty": "ok"
       },
       {
         "id": "first-nightmare",
@@ -395,7 +396,8 @@
         "name": "Second Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 3.29,
-        "event": true
+        "event": true,
+        "difficulty": "h"
       },
       {
         "id": "third-nightmare",
@@ -404,7 +406,8 @@
         "name": "Third Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 2.93,
-        "event": true
+        "event": true,
+        "difficulty": "vh"
       },
       {
         "id": "fourth-nightmare",
@@ -413,7 +416,8 @@
         "name": "Fourth Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 2.78,
-        "event": true
+        "event": true,
+        "difficulty": "ok"
       },
       {
         "id": "but-wait-there-s-more",
@@ -521,7 +525,8 @@
         "icon": "9cc6c58d2e15799940c65e5716e1c901f64e805d",
         "name": "Becoming a Regular",
         "description": "Complete the Four Stores job on the Death Wish difficulty.",
-        "rate": 5.94
+        "rate": 5.94,
+        "difficulty": "dw"
       },
       {
         "id": "snatch-and-grab",
@@ -529,7 +534,8 @@
         "icon": "dd2c9fddf40cb1ff0b59a872944ae954d6717b9d",
         "name": "Snatch and Grab",
         "description": "Complete the Jewelry Store job on the Death Wish difficulty.",
-        "rate": 8.17
+        "rate": 8.17,
+        "difficulty": "dw"
       },
       {
         "id": "with-an-iron-fist",
@@ -546,7 +552,8 @@
         "icon": "53f0a4c0fa6e25a4faefea9065179dedc1f686e5",
         "name": "I'm a Firestarter",
         "description": "Complete the Firestarter job on the Death Wish difficulty.",
-        "rate": 3.58
+        "rate": 3.58,
+        "difficulty": "dw"
       },
       {
         "id": "i-m-a-swinger",
@@ -570,7 +577,8 @@
         "icon": "f066a3cdea6c2322490b12b086cae823bf089725",
         "name": "Death Wish Swinger",
         "description": "In the Election Day job, complete the heist in stealth and swing the votes to the republican favour on the Death Wish difficulty.",
-        "rate": 3.44
+        "rate": 3.44,
+        "difficulty": "dw"
       },
       {
         "id": "yes-we-can",
@@ -578,7 +586,8 @@
         "icon": "764c3eceaeeabc2c9f0e0f1fb726e78eca66e415",
         "name": "Yes We Can!",
         "description": "Complete the Election Day job on the Death Wish difficulty.",
-        "rate": 3.53
+        "rate": 3.53,
+        "difficulty": "dw"
       },
       {
         "id": "praying-mantis",
@@ -690,7 +699,8 @@
         "icon": "25542aa39e8c6517f399f8096c6f5a451db94452",
         "name": "I Will Die and Die, and Die Again",
         "description": "Complete the Shadow Raid job on the Death Wish difficulty.",
-        "rate": 6.14
+        "rate": 6.14,
+        "difficulty": "dw"
       },
       {
         "id": "it-takes-two-to-tango",
@@ -730,7 +740,8 @@
         "icon": "32477ea3535953143f51270eb1a29cba33befa20",
         "name": "Walk Faster",
         "description": "In day two of the Hotline Miami job, reach the Commissar's apartment in under 210 seconds on the OVERKILL difficulty or above. Unlocks the Rasmus mask, Tactical Foregrip and the Ergonomic Stock for the Uzi submachine gun, \"Chromescape\" material and \"Palmtrees\" pattern.",
-        "rate": 2.05
+        "rate": 2.05,
+        "difficulty": "ok"
       },
       {
         "id": "overdose",
@@ -763,7 +774,8 @@
         "name": "Fifth Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 1.43,
-        "event": true
+        "event": true,
+        "difficulty": "dw"
       },
       {
         "id": "most-wanted",
@@ -787,7 +799,8 @@
         "icon": "1999c4afd858cdf56b13e9ccd1720227d94b6d7a",
         "name": "Full Measure",
         "description": "On day 1 of the Rats job, cook and secure 7 bags worth of meth without blowing up the lab on the OVERKILL difficulty or above.",
-        "rate": 3.39
+        "rate": 3.39,
+        "difficulty": "ok"
       },
       {
         "id": "afraid-of-the-dark",
@@ -857,7 +870,8 @@
         "rate": 1.64,
         "max": 15,
         "count": "armored_4_stats",
-        "community": true
+        "community": true,
+        "difficulty": "ok"
       },
       {
         "id": "license-to-kill",
@@ -1032,7 +1046,8 @@
         "icon": "068108616d9a7569017a611af9c0f5972dfaf638",
         "name": "Sewer Rats",
         "description": "In the GO Bank job, complete the heist having secured all bags of cash via the sewers on the OVERKILL difficulty or above.",
-        "rate": 1.85
+        "rate": 1.85,
+        "difficulty": "ok"
       },
       {
         "id": "we-are-all-professionals",
@@ -1040,7 +1055,8 @@
         "icon": "aa5bc701364cb85660aa0e59358951788b5b1d3d",
         "name": "We Are All Professionals",
         "description": "In the GO Bank job, complete the heist without the alarm going off and without killing any civilians on the OVERKILL difficulty or above.",
-        "rate": 2.03
+        "rate": 2.03,
+        "difficulty": "ok"
       },
       {
         "id": "eco-round",
@@ -1048,7 +1064,8 @@
         "icon": "56c8d0608cd066ff276ad2e7b7a092f96121c096",
         "name": "Eco Round",
         "description": "In the GO Bank job, complete the heist without using your primary weapon on the OVERKILL difficulty or above.",
-        "rate": 5.51
+        "rate": 5.51,
+        "difficulty": "ok"
       },
       {
         "id": "reindeer-games",
@@ -1105,7 +1122,8 @@
         "icon": "7d957a4c88abb95bc90d622e80553cabe47494c4",
         "name": "Doctor Miserable",
         "description": "On day 2 of the Big Oil job, complete the heist with the last engine being correct on the OVERKILL difficulty or above.",
-        "rate": 1.47
+        "rate": 1.47,
+        "difficulty": "ok"
       },
       {
         "id": "the-eighth-and-final-rule",
@@ -1144,7 +1162,8 @@
         "rate": 1.49,
         "max": 15,
         "count": "gage2_9_stats",
-        "dlc": true
+        "dlc": true,
+        "difficulty": "ok"
       },
       {
         "id": "are-you-kidding-me",
@@ -1161,7 +1180,8 @@
         "icon": "91c946ec7570a5fa85ad0f95913c1d0aef15615f",
         "name": "Wedding Crashers",
         "description": "Complete the Ukrainian pro job on the Death Wish difficulty.",
-        "rate": 6.89
+        "rate": 6.89,
+        "difficulty": "dw"
       },
       {
         "id": "came-in-like-a-wrecking-ball",
@@ -1169,7 +1189,8 @@
         "icon": "4f7a04f8b37bc3d44c45b54902dae162a0271013",
         "name": "Came in Like a Wrecking Ball",
         "description": "Complete the Mallcrasher job on the Death Wish difficulty.",
-        "rate": 5.18
+        "rate": 5.18,
+        "difficulty": "dw"
       },
       {
         "id": "blood-on-the-dance-floor",
@@ -1177,7 +1198,8 @@
         "icon": "026815589174e27957a723868dd45040d817cd17",
         "name": "Blood on the Dance Floor",
         "description": "Complete the Nightclub job on the Death Wish difficulty.",
-        "rate": 5.16
+        "rate": 5.16,
+        "difficulty": "dw"
       },
       {
         "id": "like-a-fucking-sputnik",
@@ -1185,7 +1207,8 @@
         "icon": "de5e10f5cdb3382e7ac4b3654424a2e9452602f4",
         "name": "Like a Fucking Sputnik!",
         "description": "Complete all of Vlads contracts on the Death Wish difficulty.",
-        "rate": 3.27
+        "rate": 3.27,
+        "difficulty": "dw"
       },
       {
         "id": "who-let-the-doge-out",
@@ -1193,7 +1216,8 @@
         "icon": "2d5836d92129192009f6e902f413c452459ce3fe",
         "name": "Who Let the Doge Out?",
         "description": "Complete the Watchdogs pro job on the Death Wish difficulty.",
-        "rate": 3.32
+        "rate": 3.32,
+        "difficulty": "dw"
       },
       {
         "id": "if-you-cant-take-the-heat",
@@ -1201,7 +1225,8 @@
         "icon": "2f6173765d5c2b7a862673767361fa2ae5a18b51",
         "name": "If You Can't Take the Heat...",
         "description": "Complete the Rats pro job on the Death Wish difficulty.",
-        "rate": 4.24
+        "rate": 4.24,
+        "difficulty": "dw"
       },
       {
         "id": "into-the-lions-den",
@@ -1209,7 +1234,8 @@
         "icon": "f64272bce2c0c00bcafa401cd3377864eaeb7548",
         "name": "Into the Lion's Den",
         "description": "Complete the Firestarter pro job on the Death Wish difficulty.",
-        "rate": 4.9
+        "rate": 4.9,
+        "difficulty": "dw"
       },
       {
         "id": "high-way-to-hell",
@@ -1217,7 +1243,8 @@
         "icon": "3bc9b461c5f24de457bff179270207ef71eedb88",
         "name": "High Way to Hell",
         "description": "Complete all of Hectors contracts on the Death Wish difficulty.",
-        "rate": 2.08
+        "rate": 2.08,
+        "difficulty": "dw"
       },
       {
         "id": "making-crime-into-an-art-form",
@@ -1225,7 +1252,8 @@
         "icon": "cc2196bd5fd922f2f41a5f0aff3a70c73631eb5c",
         "name": "Making Crime Into an Art Form",
         "description": "Complete the Framing Frame pro job on the Death Wish difficulty.",
-        "rate": 4.33
+        "rate": 4.33,
+        "difficulty": "dw"
       },
       {
         "id": "changing-the-world",
@@ -1233,7 +1261,8 @@
         "icon": "3a37159ed662402ec0121e2d4406549ac620d5bc",
         "name": "Changing the World...",
         "description": "Complete the Big Oil pro job on the Death Wish difficulty.",
-        "rate": 3.88
+        "rate": 3.88,
+        "difficulty": "dw"
       },
       {
         "id": "for-better-or-worse",
@@ -1241,7 +1270,8 @@
         "icon": "e0d94b9c0ca3745c7dade07575a6ad6907da1a9f",
         "name": "… For Better or Worse",
         "description": "Complete all of the Elephants contracts on the Death Wish difficulty.",
-        "rate": 2.13
+        "rate": 2.13,
+        "difficulty": "dw"
       },
       {
         "id": "tough-as-diamonds",
@@ -1249,7 +1279,8 @@
         "icon": "70caef5b0c2ed46e9bec9c7a8a4656f6dd1e4844",
         "name": "Tough As Diamonds",
         "description": "Complete the Diamond Store job on the Death Wish difficulty.",
-        "rate": 7.65
+        "rate": 7.65,
+        "difficulty": "dw"
       },
       {
         "id": "cash-in-before-you-cash-out",
@@ -1257,7 +1288,8 @@
         "icon": "efd6a0b8c95ede76ae6ef1828a988ae9774c2931",
         "name": "Cash in Before You Cash Out!",
         "description": "Complete the GO Bank job on the Death Wish difficulty.",
-        "rate": 5.55
+        "rate": 5.55,
+        "difficulty": "dw"
       },
       {
         "id": "because-thats-where-the-money-is",
@@ -1265,7 +1297,8 @@
         "icon": "08707b101bfd2d93b1de95f9017bce619e6f9bf6",
         "name": "Because That's Where the Money Is",
         "description": "Complete the Bank Heist pro job on the Death Wish difficulty.",
-        "rate": 5.97
+        "rate": 5.97,
+        "difficulty": "dw"
       },
       {
         "id": "striking-gold",
@@ -1273,7 +1306,8 @@
         "icon": "fd8c62b7580c5014c31cadaf9d793ec4a8189341",
         "name": "Striking Gold",
         "description": "Complete the Bank Heist: Gold pro job on the Death Wish difficulty.",
-        "rate": 8.28
+        "rate": 8.28,
+        "difficulty": "dw"
       },
       {
         "id": "cash-is-king",
@@ -1281,7 +1315,8 @@
         "icon": "a5224ed7632ea8d797c0d0e053c54e488db549f7",
         "name": "Cash Is King",
         "description": "Complete the Bank Heist: Cash job on the Death Wish difficulty.",
-        "rate": 6.91
+        "rate": 6.91,
+        "difficulty": "dw"
       },
       {
         "id": "yes-hello-id-like-to-make-a-de-paws-it",
@@ -1289,7 +1324,8 @@
         "icon": "42ec406b4381ff3f65cd25841359d1347913e157",
         "name": "Yes Hello, I'd Like to Make a De-paws-it",
         "description": "Complete the Bank Heist: Deposit job on the Death Wish difficulty.",
-        "rate": 5.65
+        "rate": 5.65,
+        "difficulty": "dw"
       },
       {
         "id": "at-a-crossroads",
@@ -1297,7 +1333,8 @@
         "icon": "88701876a6989f5feaa1cc76d50f0227c0b9ffb2",
         "name": "At a Crossroads",
         "description": "Complete the Transport: Crossroads job on the Death Wish difficulty.",
-        "rate": 2.84
+        "rate": 2.84,
+        "difficulty": "dw"
       },
       {
         "id": "downtown-madness",
@@ -1305,7 +1342,8 @@
         "icon": "199019a7fb3e051f3705685a88c1f545ef0f4a76",
         "name": "Downtown Madness",
         "description": "Complete the Transport: Downtown job on the Death Wish difficulty.",
-        "rate": 2.81
+        "rate": 2.81,
+        "difficulty": "dw"
       },
       {
         "id": "shipment-and-handling",
@@ -1313,7 +1351,8 @@
         "icon": "628a1b543817ec8193baf2b2fb26d1afe6513588",
         "name": "Shipment and Handling",
         "description": "Complete the Transport: Harbor job on the Death Wish difficulty.",
-        "rate": 2.77
+        "rate": 2.77,
+        "difficulty": "dw"
       },
       {
         "id": "a-walk-in-the-park",
@@ -1321,7 +1360,8 @@
         "icon": "dcdfafbe3ff09168308e22adccf8aa46fd607302",
         "name": "A Walk in the Park",
         "description": "Complete the Transport: Park job on the Death Wish difficulty.",
-        "rate": 2.75
+        "rate": 2.75,
+        "difficulty": "dw"
       },
       {
         "id": "its-always-foggy-in-washington-dc",
@@ -1329,7 +1369,8 @@
         "icon": "5ab74f17063db8c3a54a820097804517ebe87831",
         "name": "It's Always Foggy in Washington D.C.",
         "description": "Complete the Transport: Underpass job on the Death Wish difficulty.",
-        "rate": 2.83
+        "rate": 2.83,
+        "difficulty": "dw"
       },
       {
         "id": "long-term-relationship",
@@ -1337,7 +1378,8 @@
         "icon": "4d0594634a2379350d76a710cdb9928c94b8ae81",
         "name": "Long-Term Relationship",
         "description": "Complete all of Bains contracts on the Death Wish difficulty.",
-        "rate": 2.07
+        "rate": 2.07,
+        "difficulty": "dw"
       },
       {
         "id": "tough-act-to-follow",
@@ -1345,7 +1387,8 @@
         "icon": "db8795d73475102c63f8c5dfb05fd24d16efad55",
         "name": "Tough Act to Follow",
         "description": "Complete all contracts including pro jobs on the Hard difficulty.",
-        "rate": 2.11
+        "rate": 2.11,
+        "difficulty": "h"
       },
       {
         "id": "shit-just-got-real",
@@ -1353,7 +1396,8 @@
         "icon": "04a221cd1913d560bfc72344ed5e51d5a8e21bb1",
         "name": "Shit Just Got Real",
         "description": "Complete all contracts including pro jobs on the Very Hard difficulty.",
-        "rate": 1.8
+        "rate": 1.8,
+        "difficulty": "vh"
       },
       {
         "id": "completely-overkill",
@@ -1361,7 +1405,8 @@
         "icon": "95eafab73ba2ce113e4ea00f2c4ce9565483b63a",
         "name": "Completely OVERKILL!",
         "description": "Complete all contracts including pro jobs on the OVERKILL difficulty.",
-        "rate": 1.97
+        "rate": 1.97,
+        "difficulty": "ok"
       },
       {
         "id": "overkill-salutes-you",
@@ -1369,7 +1414,8 @@
         "icon": "82152b04378c6909a5a939e7f801166d5a33166e",
         "name": "OVERKILL Salutes You!",
         "description": "Complete all contracts including pro jobs on the Death Wish difficulty.",
-        "rate": 1.89
+        "rate": 1.89,
+        "difficulty": "dw"
       },
       {
         "id": "breaking-bad",
@@ -1377,7 +1423,8 @@
         "icon": "66a36f9f72b4d2760a035a603eedae171d6496fa",
         "name": "Breaking Bad",
         "description": "Complete the Rats job on the Death Wish difficulty.",
-        "rate": 3.05
+        "rate": 3.05,
+        "difficulty": "dw"
       },
       {
         "id": "special-delivery",
@@ -1385,7 +1432,8 @@
         "icon": "187ee76741a01672cc4dec38049ceb12471dca03",
         "name": "Special Delivery",
         "description": "Complete the Watchdogs job on the Death Wish difficulty.",
-        "rate": 2.78
+        "rate": 2.78,
+        "difficulty": "dw"
       },
       {
         "id": "moonlighting",
@@ -1393,7 +1441,8 @@
         "icon": "641abc4cda7391af349523cb1a0fe41f3473e74d",
         "name": "Moonlighting",
         "description": "Complete the Framing Frame job on the Death Wish difficulty.",
-        "rate": 4.2
+        "rate": 4.2,
+        "difficulty": "dw"
       },
       {
         "id": "a-vote-for-change",
@@ -1410,7 +1459,8 @@
         "icon": "1ee2526029d39b829aa1550b37381019e317cd4d",
         "name": "I Invented the Internet",
         "description": "Complete the Election Day pro job on the Death Wish difficulty.",
-        "rate": 3.42
+        "rate": 3.42,
+        "difficulty": "dw"
       },
       {
         "id": "storage-hunter",
@@ -1675,7 +1725,8 @@
         "icon": "9cb1d40e51e3f6648921fca4af259d7a41e89539",
         "name": "12 Angry Minutes",
         "description": "In the Big Bank job, complete the heist in under 12 minutes on the Hard difficulty or above. Unlocks the Wooden Foregrip for the Falcon rifle.",
-        "rate": 2.66
+        "rate": 2.66,
+        "difficulty": "h"
       },
       {
         "id": "don-t-bring-the-heat",
@@ -1707,7 +1758,8 @@
         "icon": "1f16c28a010453cb8923103ba63ed182116f526f",
         "name": "Don't Forget to Floss",
         "description": "Complete the Big Bank job on the Death Wish difficulty.",
-        "rate": 4.15
+        "rate": 4.15,
+        "difficulty": "dw"
       },
       {
         "id": "funding-father",
@@ -1819,7 +1871,8 @@
         "name": "Four Monkeys",
         "description": "In the Rats job, complete the heist while you and your four man crew are wearing one different \"Shotgun Pack\" mask each on OVERKILL difficulty or above.",
         "rate": 1.11,
-        "dlc": true
+        "dlc": true,
+        "difficulty": "ok"
       },
       {
         "id": "precision-aiming",
@@ -1877,7 +1930,8 @@
         "name": "Unusual Suspects",
         "description": "In the Watchdogs job, complete the heist while you and your four man crew are wearing one different Assault Pack mask each on OVERKILL difficulty or above. Unlocks the Light Foregrip for the Gecko 7.62 rifle, Tactical Foregrip for the Gewehr 3 rifle, Long Barrel for the Clarion rifle, \"Void\" material and \"Death\" pattern.",
         "rate": 0.84,
-        "dlc": true
+        "dlc": true,
+        "difficulty": "ok"
       },
       {
         "id": "not-today",
@@ -1927,7 +1981,8 @@
         "icon": "b2ce8ecfb915cdb0149a13e4e8510fa3ea5e89d1",
         "name": "Wrong Number",
         "description": "Complete the Hotline Miami job on the Death Wish difficulty.",
-        "rate": 0.86
+        "rate": 0.86,
+        "difficulty": "dw"
       },
       {
         "id": "do-you-like-hurting-other-people",
@@ -1947,7 +2002,8 @@
         "name": "Sounds of Animals Fighting",
         "description": "In the Hotline Miami job, complete the heist while you and your four man crew are wearing one different Hotline Miami mask each on hard or above. Unlocks the Silent Death and the Folded Stock for the Uzi submachine gun, Suppressor and No Stock for the Cobra submachine gun and Short Barrel for the Blaster 9mm submachine gun.",
         "rate": 0.74,
-        "dlc": true
+        "dlc": true,
+        "difficulty": "h"
       },
       {
         "id": "1-786-519-3708",
@@ -1955,7 +2011,8 @@
         "icon": "f383ed9c4e4f0e3b52f346f797e8a9fa33d0c0f1",
         "name": "+1 (786) 519-3708",
         "description": "Complete the Hotline Miami pro job on the Death Wish difficulty.",
-        "rate": 1.18
+        "rate": 1.18,
+        "difficulty": "dw"
       },
       {
         "id": "state-of-the-art",
@@ -1963,7 +2020,8 @@
         "icon": "5411761c0c7175e9dc0985cf8d266484b25f0aa8",
         "name": "State of the Art",
         "description": "Complete the Art Gallery heist on the Death Wish difficulty.",
-        "rate": 1.2
+        "rate": 1.2,
+        "difficulty": "dw"
       },
       {
         "id": "no-bars-can-hold-me",
@@ -1971,7 +2029,8 @@
         "icon": "e1d65e436b74db1ce1cae6901cd91949db5952e8",
         "name": "No Bars Can Hold Me",
         "description": "Complete the Hoxton Breakout heist on the Death Wish difficulty.",
-        "rate": 0.48
+        "rate": 0.48,
+        "difficulty": "dw"
       },
       {
         "id": "havoc-in-the-streets",
@@ -1979,7 +2038,8 @@
         "icon": "49d850d07e8b53b16ce37e373f9f9b7ea0b03cea",
         "name": "Havoc in the Streets",
         "description": "Complete the Hoxton Breakout pro job heist on Death Wish difficulty",
-        "rate": 0.86
+        "rate": 0.86,
+        "difficulty": "dw"
       },
       {
         "id": "cavity",
