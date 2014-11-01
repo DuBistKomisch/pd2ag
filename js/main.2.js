@@ -297,15 +297,17 @@ function processAchievements(list, base)
       }
     }
     // filter
-    var found = false;
-    if (window.user != null && list[i].api != undefined)
-      $.each(window.user.achievements, function (i, obj)
+    if (window.user != null)
+    {
+      var found = false;
+      $.each(window.user.achievements, function (j, obj)
       {
         if (obj.name == list[i].api)
           found = true;
       });
-    if (found)
-      continue;
+      if (found)
+        continue;
+    }
     // done
     base.append($achievement);
   }
