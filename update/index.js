@@ -54,6 +54,7 @@ function process()
   var added = 0;
   var matched = 0;
   var updated = 0;
+  var unmatched = [];
 
   // add missing
   meta: for (var i = 0; i < mainMeta.length; ++i)
@@ -97,12 +98,17 @@ function process()
         node.rate = rate;
       }
     }
+    else
+    {
+      unmatched.push(main[i].name);
+    }
   }
 
   // done DATA
-  console.log('added ' + added);
-  console.log('matched ' + matched);
-  console.log('updated ' + updated);
+  console.log('added: ' + added);
+  console.log('unmatched: ' + unmatched);
+  console.log('matched: ' + matched);
+  console.log('updated: ' + updated);
 
   // write json
   fs.writeFileSync(DATA_FILE, JSON.stringify(data, null, 2));
