@@ -62,7 +62,7 @@ function process()
       if (findAchievement(data[j].data, mainMeta[i].apiname) != null)
         continue meta;
     var node = {
-      'id': slug(mainMeta[i].name),
+      'id': slug(mainMeta[i].name).toLowerCase(),
       'api': mainMeta[i].apiname,
       'icon': mainMeta[i].iconClosed.substr(75, 40),
       'name': mainMeta[i].name,
