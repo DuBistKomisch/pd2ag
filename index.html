@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Payday 2 Achievement Guide</title>
+    <link rel="stylesheet" type="text/css" href="css/reset.1.css" />
+    <link rel="stylesheet" type="text/css" href="http://code.jquery.com/ui/1.11.0/themes/smoothness/jquery-ui.css">
+    <link rel="stylesheet" type="text/css" href="css/template.1.css" />
+    <script src="http://code.jquery.com/jquery-2.1.1.min.js"></script>
+    <script src="http://code.jquery.com/ui/1.11.0/jquery-ui.js"></script>
+    <script src="js/purl.1.js"></script>
+    <script src="js/main.1.js"></script>
+  </head>
+  <body>
+    <section id="introduction">
+      <h1><a href="#introduction">Introduction</a></h1>
+      <p>
+        Welcome! This guide aims to document every achievement available in the game Payday 2 by Overkill Software.
+      </p>
+      <p>
+        The guide includes details of each achievement as well as strategies to unlock them.
+      </p>
+      <section id="contact">
+        <h2><a href="#contact">Contact</a></h2>
+        <p>
+          This guide is a work in progress, so feel free to let me know any mistakes I've made.
+        </p>
+      </section>
+      <section id="symbols">
+        <h2><a href="#symbols">Symbols</a></h2>
+        <p>
+          <span class="tag easy">10</span><span class="tag medium">5</span><span class="tag hard">1</span>
+          indicate the percentage of players on Steam who have unlocked this achievement, with the colour giving an indication of how common it is at a glance.
+          Note that achievements introduced more recently tend to be skewed lower, since there has been less time to unlock them.
+        </p>
+        <p>
+          <span class="tag event">&nbsp;</span>
+          indicates that the achievement is only able to be unlocked during the corresponding event.
+          Note that despite being introduced with an event, some achievements can be unlocked at any time; for these, the symbol is not present.
+        </p>
+      </section>
+      <section>
+        <h2><a href="#options">Options</a></h2>
+        <p>Sort by <select id="sort" name="sort">
+          <option value="rate-desc" selected="selected">rate (descending)</option>
+          <option value="rate-asc">rate (ascending)</option>
+          <option value="name">name</option>
+        </select></p>
+        <p><label><input type="checkbox" id="events" name="events" /> Group by event</label></p>
+        <p><label><input type="checkbox" id="tips" name="tips" /> Show tips</label></p>
+        <p>
+          <label for="filter">Filter by Steam user
+            <input type="text" id="filter" name="filter" title="" />
+          </label>
+          <button id="filterApply">Apply</button>
+          <button id="filterClear">Clear</button>
+          <span id="filterStatus"></span>
+        </p>
+      </section>
+    </section>
+    <div id="achievements">
+    </div>
+  </body>
+</html>
