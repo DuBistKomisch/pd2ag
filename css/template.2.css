@@ -164,6 +164,11 @@ article div:nth-of-type(1)
   border-radius: 5px;
 }
 
+.progress
+{
+  margin-right: 120px;
+}
+
 article div:nth-of-type(1) img
 {
   display: inline-block;
@@ -183,11 +188,6 @@ article div:nth-of-type(1) h3
   
   font-weight: bold;
   font-size: 110%;
-}
-
-article div:nth-of-type(1)[class] h3
-{
-  left: 104px;
 }
 
 /**
@@ -230,22 +230,25 @@ article div:nth-of-type(1) p:nth-of-type(2)
   border-radius: 4px;
 }
 
-.event
+.lock
 {
-  background-image: url(../images/clock.png);
   background-repeat: no-repeat;
   background-position: 2px 2px;
   width: 12px;
   height: 12px;
 }
 
+.event { background-image: url(../images/clock.png); }
+.community { background-image: url(../images/heart.png); }
+.dlc { background-image: url(../images/dollar.png); }
+
 .tag:after { content: "%"; }
-.event:after { content: none; }
+.lock:after { content: none; }
  
 .easy { border-color: #4d4; background-color: #4d4; }
 .medium { border-color: #fd0; background-color: #fd0; }
 .hard { border-color: #f40; background-color: #f40; }
-.event { border-color: #88f; background-color: #88f; }
+.lock { border-color: #88f; background-color: #88f; }
 
 /**
  * progress
@@ -288,66 +291,4 @@ article div:nth-of-type(1) p:nth-of-type(3) span:nth-of-type(3)
   right: 5px;
   top: 5px;
   font-size: 80%;
-}
-
-/**
- * perks
- */
-
-.medic { background-image: url(../images/perks/medic.png); }
-.support { background-image: url(../images/perks/support.png); }
-.sharpshooter { background-image: url(../images/perks/sharpshooter.png); }
-.commando { background-image: url(../images/perks/commando.png); }
-.berserker { background-image: url(../images/perks/berserker.png); }
-.firebug { background-image: url(../images/perks/firebug.png); }
-.demolition { background-image: url(../images/perks/demolition.png); }
-.none { background-image: url(../images/perks/none.png); }
-
-/**
- * maps area
- */
-
-#maps table
-{
-  margin: 10px 0px;
-  border-collapse: separate;
-  border-spacing: 5px;
-  
-  background-color: #888;
-  border: #bbb 1px solid;
-  border-radius: 5px;
-}
-
-#maps th
-{
-  width: 20%;
-  
-  font-weight: bold;
-}
-
-#maps td
-{
-  width: 20%;
-  padding: 5px;
-  
-  text-align: center;
-}
-
-#maps th.division
-{
-  text-indent: 10px;
-  text-align: left;
-  
-  font-style: italic;
-}
-
-#maps td.map
-{
-  text-align: left;
-}
-
-#maps .kfo
-{
-  vertical-align: super;
-  font-size: 50%;
 }

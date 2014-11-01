@@ -256,9 +256,6 @@ function processAchievements(list, base)
   for (var i = 0; i < list.length; i++)
   {
     var $achievement = $('<article id="' + list[i].id + '"><div><img src="' + 'http://cdn.akamai.steamstatic.com/steamcommunity/public/images/apps/218620/' + list[i].icon + '.jpg" alt="icon" /><h3><a href="#' + list[i].id + '">' + list[i].name + '</a></h3><p>' + list[i].description + '</p><p><span class="tag">' + list[i].rate + '</span></p></div></article>');
-    // perk
-    if (list[i].perk != undefined)
-      $achievement.find('div:nth-of-type(1)').addClass(list[i].perk);
     // rate
     var $rate = $achievement.find('.tag');
     if (list[i].rate >= 6)
@@ -267,9 +264,13 @@ function processAchievements(list, base)
       $rate.addClass('medium');
     else
       $rate.addClass('hard');
-    // event
+    // locks
     if (list[i].event != undefined)
-      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag event">&nbsp;</span>');
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock event">&nbsp;</span>');
+    if (list[i].community != undefined)
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock community">&nbsp;</span>');
+    if (list[i].dlc != undefined)
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock dlc">&nbsp;</span>');
     // tips
     if (list[i].tips != undefined)
     {
@@ -281,6 +282,7 @@ function processAchievements(list, base)
     // progress
     if (list[i].max != undefined)
     {
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(1)').addClass('progress');
       if (window.user == null)
       {
         $achievement.find('div:nth-of-type(1)').append('<p><span style="display:none;"></span><span></span><span>' + list[i].max + '</span></p>');
