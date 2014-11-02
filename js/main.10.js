@@ -20,7 +20,7 @@ $(document).ready(function ()
     filter();
   });
   
-  $('#sort').val($.url().param('sort') ? $.url().param('sort') : 'rate-desc');
+  $('#sort').val($.url().param('sort') ? $.url().param('sort') : 'rate-desc').selectmenu('refresh', true);
   $('#events').prop('checked', $.url().param('events') != undefined);
   $('#tips').prop('checked', $.url().param('tips') != undefined);
   $('#filter').val($.url().param('filter') ? $.url().param('filter') : '');
