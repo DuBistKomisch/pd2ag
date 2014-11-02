@@ -177,7 +177,7 @@ function tips()
   }
 
   // only place reached when changing any option
-  var link = window.location.hostname + window.location.pathname + '?sort=' + $('#sort').val();
+  var link = window.location.protocol + '//' + window.location.hostname + window.location.pathname + '?sort=' + $('#sort').val();
   if ($('#events').prop('checked'))
     link += '&events';
   if ($('#tips').prop('checked'))
