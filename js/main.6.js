@@ -175,6 +175,16 @@ function tips()
     $('article.tips').css('padding-bottom', '0px');
     $('article > p').css('display', 'none');
   }
+
+  // only place reached when changing any option
+  var link = window.location.hostname + window.location.pathname + '?sort=' + $('#sort').val();
+  if ($('#events').prop('checked'))
+    link += '&events';
+  if ($('#tips').prop('checked'))
+    link += '&tips';
+  if ($('#filter').val() != '')
+    link += '&filter=' + $('#filter').val();
+  $('#bookmark').prop('href', link);
 }
 
 function sortRateDesc(a, b)
