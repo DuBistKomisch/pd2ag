@@ -252,6 +252,7 @@ article div:nth-of-type(1) p:nth-of-type(2)
 .event { background-image: url(../images/clock.png); }
 .community { background-image: url(../images/heart.png); }
 .dlc { background-image: url(../images/dollar.png); }
+.unlock { background-image: url(../images/unlock.png); }
 .difficulty { background-image: url(../images/skull.png); }
 
 .tag:after { content: "%"; }
@@ -262,6 +263,7 @@ article div:nth-of-type(1) p:nth-of-type(2)
 .medium, .ok { border-color: #fd0; background-color: #fd0; }
 .hard, .dw { border-color: #f40; background-color: #f40; }
 .lock { border-color: #88f; background-color: #88f; }
+.unlock { border-color: #ddd; background-color: #ddd; }
 
 /**
  * progress

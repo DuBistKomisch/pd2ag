@@ -375,7 +375,8 @@
         "name": "First Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 3.74,
-        "event": true
+        "event": true,
+        "unlock": true
       },
       {
         "id": "second-nightmare",
@@ -385,7 +386,8 @@
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 3.34,
         "event": true,
-        "difficulty": "h"
+        "difficulty": "h",
+        "unlock": true
       },
       {
         "id": "third-nightmare",
@@ -395,7 +397,8 @@
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 2.98,
         "event": true,
-        "difficulty": "vh"
+        "difficulty": "vh",
+        "unlock": true
       },
       {
         "id": "fourth-nightmare",
@@ -405,7 +408,8 @@
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 2.82,
         "event": true,
-        "difficulty": "ok"
+        "difficulty": "ok",
+        "unlock": true
       },
       {
         "id": "i-am-the-one-who-knocks",
@@ -1196,7 +1200,8 @@
         "name": "Tough Act to Follow",
         "description": "Complete all contracts including pro jobs on the Hard difficulty.",
         "rate": 2.11,
-        "difficulty": "h"
+        "difficulty": "h",
+        "unlock": true
       },
       {
         "id": "shit-just-got-real",
@@ -1205,7 +1210,8 @@
         "name": "Shit Just Got Real",
         "description": "Complete all contracts including pro jobs on the Very Hard difficulty.",
         "rate": 1.8,
-        "difficulty": "vh"
+        "difficulty": "vh",
+        "unlock": true
       },
       {
         "id": "completely-overkill",
@@ -1214,7 +1220,8 @@
         "name": "Completely OVERKILL!",
         "description": "Complete all contracts including pro jobs on the OVERKILL difficulty.",
         "rate": 1.97,
-        "difficulty": "ok"
+        "difficulty": "ok",
+        "unlock": true
       },
       {
         "id": "overkill-salutes-you",
@@ -1223,7 +1230,8 @@
         "name": "OVERKILL Salutes You!",
         "description": "Complete all contracts including pro jobs on the Death Wish difficulty.",
         "rate": 1.89,
-        "difficulty": "dw"
+        "difficulty": "dw",
+        "unlock": true
       },
       {
         "id": "with-an-iron-fist",
@@ -1501,7 +1509,8 @@
         "rate": 6.55,
         "max": 50,
         "count": "gage3_3_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "arachnes-curse",
@@ -1512,7 +1521,8 @@
         "rate": 5.67,
         "max": 100,
         "count": "gage3_4_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "pest-control",
@@ -1523,7 +1533,8 @@
         "rate": 4.32,
         "max": 250,
         "count": "gage3_5_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "seer-of-death",
@@ -1534,7 +1545,8 @@
         "rate": 3.24,
         "max": 500,
         "count": "gage3_6_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "far-far-away",
@@ -1545,7 +1557,8 @@
         "rate": 3.07,
         "max": 25,
         "count": "gage3_7_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "last-action-villain",
@@ -1554,7 +1567,8 @@
         "name": "Last Action Villain",
         "description": "Perform a headshot kill on enemies using only the R93 sniper rifle while zip lining. Unlocks the Compensated Suppressor for the R93 sniper rifle.",
         "rate": 2.61,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "triple-kill",
@@ -1563,7 +1577,8 @@
         "name": "Triple Kill",
         "description": "Kill 3 enemies with one bullet using any sniper rifle. Unlocks the Angled sight for all sniper rifles.",
         "rate": 5.74,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "maximum-penetration",
@@ -1574,7 +1589,8 @@
         "rate": 4.26,
         "max": 10,
         "count": "gage3_10_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "dodge-this",
@@ -1585,7 +1601,8 @@
         "rate": 2.93,
         "max": 10,
         "count": "gage3_11_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "surprise-motherfucker",
@@ -1596,7 +1613,8 @@
         "rate": 3.25,
         "max": 10,
         "count": "gage3_12_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "didnt-see-that-coming-did-you",
@@ -1607,7 +1625,8 @@
         "rate": 2.75,
         "max": 10,
         "count": "gage3_13_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "a-taste-of-their-own-medicine",
@@ -1618,7 +1637,8 @@
         "rate": 2.61,
         "max": 25,
         "count": "gage3_14_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "you-cant-hide",
@@ -1629,7 +1649,8 @@
         "rate": 2.95,
         "max": 25,
         "count": "gage3_15_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "double-kill",
@@ -1640,7 +1661,8 @@
         "rate": 2.56,
         "max": 25,
         "count": "gage3_16_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "public-enemy-no-1",
@@ -1651,7 +1673,8 @@
         "rate": 3.43,
         "max": 250,
         "count": "gage3_17_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       }
     ]
   },
@@ -1689,7 +1712,8 @@
         "icon": "fefb017e876f68631befe1b6924bceff0e0ff069",
         "name": "I Will Walk Faceless Among Men",
         "description": "In the Shadow Raid job, secure all 4 pieces of the samurai armor. Unlocks the \"Somen Mempo\" mask.",
-        "rate": 8.04
+        "rate": 8.04,
+        "unlock": true
       },
       {
         "id": "i-am-ninja",
@@ -1720,7 +1744,8 @@
         "icon": "876783f37de51a5950166a4ea3de7af89287d7a4",
         "name": "It Takes Two to Tango",
         "description": "In the Big Bank job, hack the correct computer on the first try. Unlocks the \"First American\" mask and the Tactical Grip for the Falcon Rifle.",
-        "rate": 8.91
+        "rate": 8.91,
+        "unlock": true
       },
       {
         "id": "it-takes-a-pig-to-kill-a-pig",
@@ -1728,7 +1753,8 @@
         "icon": "1328281ab4c0ca850ce029f552ee2a954e1da488",
         "name": "It Takes a Pig to Kill a Pig",
         "description": "In the Big Bank job, drop Floyd the pig on top of an enemy. Unlocks the \"1st\" mask and the Extended Magazine for the Falcon Rifle.",
-        "rate": 2.49
+        "rate": 2.49,
+        "unlock": true
       },
       {
         "id": "sweet-sixteen",
@@ -1736,7 +1762,8 @@
         "icon": "3a1b57eba48b0e4a23b69b0407f3afe5ea4cd9e5",
         "name": "Sweet Sixteen",
         "description": "In the Big Bank job, complete the heist having secured 16 bags. Unlocks the \"16th\" mask and the Marksman Foregrip for the Falcon Rifle.",
-        "rate": 6.57
+        "rate": 6.57,
+        "unlock": true
       },
       {
         "id": "12-angry-minutes",
@@ -1745,7 +1772,8 @@
         "name": "12 Angry Minutes",
         "description": "In the Big Bank job, complete the heist in under 12 minutes on the Hard difficulty or above. Unlocks the Wooden Foregrip for the Falcon rifle.",
         "rate": 2.67,
-        "difficulty": "h"
+        "difficulty": "h",
+        "unlock": true
       },
       {
         "id": "don-t-bring-the-heat",
@@ -1753,7 +1781,9 @@
         "icon": "3fdce01be620c404986adcbd025c1ec3e1653993",
         "name": "Don't Bring the Heat",
         "description": "In the Big Bank job, complete the heist without triggering the alarm. Unlocks the CQB Stock for the Falcon rifle.",
-        "rate": 3.49
+        "rate": 3.49,
+        "unlock": true,
+        "unlock": true
       },
       {
         "id": "backing-bobblehead-bob",
@@ -1761,7 +1791,8 @@
         "icon": "31d24226c3850eab5fc2ad77ca06cdd3fb61c758",
         "name": "Backing Bobblehead Bob",
         "description": "In the Big Bank job, bring Bobblehead Bob to the vault. Unlocks the \"18th\" mask and the Wooden Stock for the Falcon rifle.",
-        "rate": 1.64
+        "rate": 1.64,
+        "unlock": true
       },
       {
         "id": "entrapment",
@@ -1769,7 +1800,8 @@
         "icon": "7c44c25bf9e270a7d7810b9a220e4edfa457230e",
         "name": "Entrapment",
         "description": "In the Big Bank job, complete the heist with 12 bags in the default escape with the all lasers active. Unlocks the CQB Foregrip for the Falcon rifle.",
-        "rate": 1.76
+        "rate": 1.76,
+        "unlock": true
       },
       {
         "id": "you-owe-me-one",
@@ -1777,7 +1809,8 @@
         "icon": "563b0706aa8df836503d8aaadb515a6d4cc29899",
         "name": "You Owe Me One",
         "description": "In the Big Bank job, start the Big Bank job after having spent all 10 favors in Preplanning. Unlocks the Retro Foregrip for the Falcon rifle.",
-        "rate": 10.61
+        "rate": 10.61,
+        "unlock": true
       },
       {
         "id": "don-t-forget-to-floss",
@@ -1795,7 +1828,8 @@
         "name": "Funding Father",
         "description": "In the Big Bank job, complete the heist while you and your four man crew are wearing one different \"Big Bank\" mask each. Unlocks the Marksman Stock for the Falcon rifle.",
         "rate": 1.25,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       }
     ]
   },
@@ -1819,7 +1853,8 @@
         "name": "Lock, Stock & Eight Smoking Barrels",
         "description": "Own every Shotgun. Unlocks the Flip-up Sight for the Raven shotgun.",
         "rate": 2.29,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "swing-dancing",
@@ -1835,7 +1870,8 @@
         "icon": "e596d3e11328c526a5e0f8a157aa8b9494bc4e7a",
         "name": "Seven Eleven",
         "description": "Get 7 enemy headshot kills within 11 seconds using any shotgun. Unlocks the Short Barrel for the M1014 shotgun, \"John\" mask, \"Explosive\" material and \"Terror\" pattern.",
-        "rate": 8.44
+        "rate": 8.44,
+        "unlock": true
       },
       {
         "id": "shotgun-101",
@@ -1843,7 +1879,8 @@
         "icon": "8e8a408b71c459ed689a6d72e3cda22a2fc25284",
         "name": "Shotgun 101",
         "description": "Kill at least 50 enemies and get 101% accuracy or above using any shotgun. Unlocks the Long Barrel for the M1014 shotgun.",
-        "rate": 1.32
+        "rate": 1.32,
+        "unlock": true
       },
       {
         "id": "knock-knock",
@@ -1854,7 +1891,8 @@
         "rate": 1.37,
         "max": 50,
         "count": "gage4_6_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "everyday-im-shovelin",
@@ -1865,7 +1903,8 @@
         "rate": 1.79,
         "max": 25,
         "count": "gage4_7_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "clay-pigeon-shooting",
@@ -1876,7 +1915,8 @@
         "rate": 1.73,
         "max": 10,
         "count": "gage4_8_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "shock-and-awe",
@@ -1885,7 +1925,8 @@
         "name": "Shock and Awe",
         "description": "Hit 4 enemies simultaneously using any shotgun and HE rounds. Unlocks the Solid Stock for the M1014 shotgun.",
         "rate": 2.82,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "bang-for-the-buck",
@@ -1895,7 +1936,8 @@
         "description": "Kill 10 Bulldozers using any shotgun and 000 buckshot ammo. Unlocks the Long Barrel for the Street Sweeper shotgun, \"Steven\" mask, \"Sparks\" material and \"Chief\" pattern.",
         "rate": 1.43,
         "max": 10,
-        "count": "gage4_10_stats"
+        "count": "gage4_10_stats",
+        "unlock": true
       },
       {
         "id": "no-heist-for-old-men",
@@ -1903,7 +1945,8 @@
         "icon": "4d6d5f936aae681c1f808db459351acceaf73bca",
         "name": "No Heist for Old Men",
         "description": "Complete any heist in stealth with a silenced Locomotive 12G shotgun equipped. Unlocks the Suppressed Barrel for the Street Sweeper shotgun, \"Rutger\" mask, \"Banana Peel\" material and \"Banana\" pattern.",
-        "rate": 2.6
+        "rate": 2.6,
+        "unlock": true
       },
       {
         "id": "four-monkeys",
@@ -1930,7 +1973,8 @@
         "rate": 0.89,
         "max": 25,
         "count": "gage5_1_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "big-bada-boom",
@@ -1939,7 +1983,8 @@
         "name": "Big Bada Boom",
         "description": "Kill at least four enemies with one GL40 grenade launcher shot. Unlocks the Pirate Stock for the GL40 grenade launcher and the \"Crow Goblin\" mask.",
         "rate": 2.02,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "army-of-one",
@@ -1948,7 +1993,8 @@
         "name": "Army of One",
         "description": "Equip the GL40 grenade launcher, the Locomotive 12G shotgun and the Improved Combined Tactical Vest. Unlocks the CQB Foregrip and Plastic Stock for the Gecko 7.62 rifle.",
         "rate": 1.55,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "so-many-choices",
@@ -1957,7 +2003,8 @@
         "name": "So Many Choices",
         "description": "Own one of every Gage Assault Pack weapon in the game. Unlocks the Short Barrel for the Clarion rifle, Light Stock for the Gecko 7.62 rifle, Plastic Foregrip and Short Barrel for the Gewehr 3 rifle, \"Evil\" material and \"Vicious\" pattern.",
         "rate": 2.1,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "artillery-barrage",
@@ -1968,7 +2015,8 @@
         "rate": 0.96,
         "max": 25,
         "count": "gage5_5_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "unusual-suspects",
@@ -1978,7 +2026,8 @@
         "description": "In the Watchdogs job, complete the heist while you and your four man crew are wearing one different Assault Pack mask each on OVERKILL difficulty or above. Unlocks the Light Foregrip for the Gecko 7.62 rifle, Tactical Foregrip for the Gewehr 3 rifle, Long Barrel for the Clarion rifle, \"Void\" material and \"Death\" pattern.",
         "rate": 0.84,
         "dlc": true,
-        "difficulty": "ok"
+        "difficulty": "ok",
+        "unlock": true
       },
       {
         "id": "not-today",
@@ -1987,7 +2036,8 @@
         "name": "Not Today",
         "description": "Kill a jumping Cloaker using the GL40 grenade launcher. Unlocks the Wooden Stock, Retro Grip and Wooden Foregrip for the Gewehr 3 rifle.",
         "rate": 0.87,
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "hammertime",
@@ -1998,7 +2048,8 @@
         "rate": 0.96,
         "max": 25,
         "count": "gage5_8_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "rabbit-hunting",
@@ -2009,7 +2060,8 @@
         "rate": 1.25,
         "max": 10,
         "count": "gage5_9_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "tour-de-clarion",
@@ -2020,7 +2072,8 @@
         "rate": 1.64,
         "max": 200,
         "count": "gage5_10_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       }
     ]
   },
@@ -2044,7 +2097,8 @@
         "name": "Walk Faster",
         "description": "In day two of the Hotline Miami job, reach the Commissar's apartment in under 210 seconds on the OVERKILL difficulty or above. Unlocks the Rasmus mask, Tactical Foregrip and the Ergonomic Stock for the Uzi submachine gun, \"Chromescape\" material and \"Palmtrees\" pattern.",
         "rate": 2.06,
-        "difficulty": "ok"
+        "difficulty": "ok",
+        "unlock": true
       },
       {
         "id": "do-you-like-hurting-other-people",
@@ -2055,7 +2109,8 @@
         "rate": 1.02,
         "max": 30,
         "count": "pig_3_stats",
-        "dlc": true
+        "dlc": true,
+        "unlock": true
       },
       {
         "id": "overdose",
@@ -2063,7 +2118,8 @@
         "icon": "2e49b6d7b825bb549bdc06121a4cc464088189cc",
         "name": "Overdose",
         "description": "Cook and secure six bags of meth on day one of the Hotline Miami job. Unlocks the Graham mask, Ghetto Blaster, Extended Mag and Just Bend It for the Blaster 9mm submachine gun, \"Error\" material and \"Be Somebody\" pattern.",
-        "rate": 1.66
+        "rate": 1.66,
+        "unlock": true
       },
       {
         "id": "sounds-of-animals-fighting",
@@ -2073,7 +2129,8 @@
         "description": "In the Hotline Miami job, complete the heist while you and your four man crew are wearing one different Hotline Miami mask each on hard or above. Unlocks the Silent Death and the Folded Stock for the Uzi submachine gun, Suppressor and No Stock for the Cobra submachine gun and Short Barrel for the Blaster 9mm submachine gun.",
         "rate": 0.74,
         "dlc": true,
-        "difficulty": "h"
+        "difficulty": "h",
+        "unlock": true
       },
       {
         "id": "1-786-519-3708",
@@ -2090,7 +2147,8 @@
         "icon": "de813e291ffe726c29e75ee9e0c4679770800b1d",
         "name": "Phew!",
         "description": "On day two of the Hotline Miami job, save someone in need. Unlocks the Aubrey mask, Ergo Grip, Extended Mag and Unfolded Stock for the Cobra submachine gun, \"Sunset\" material and \"Doodles\" pattern.",
-        "rate": 4.32
+        "rate": 4.32,
+        "unlock": true
       }
     ]
   },
@@ -2156,7 +2214,8 @@
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
         "rate": 1.48,
         "event": true,
-        "difficulty": "dw"
+        "difficulty": "dw",
+        "unlock": true
       }
     ]
   }

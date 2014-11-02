@@ -284,6 +284,8 @@ function processAchievements(list, base)
       $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock community">&nbsp;</span>');
     if (list[i].dlc != undefined)
       $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock dlc">&nbsp;</span>');
+    if (list[i].unlock != undefined)
+      $achievement.find('div:nth-of-type(1) p:nth-of-type(2)').prepend('<span class="tag lock unlock">&nbsp;</span>');
     // tips
     if (list[i].tips != undefined)
     {
