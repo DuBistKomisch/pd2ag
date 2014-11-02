@@ -1,4 +1,3 @@
-window.mapSortMode = null;
 window.countdown_id = null;
 window.attempts = 0;
 
@@ -214,6 +213,11 @@ function sortName(a, b)
   return 0;
 }
 
+function sortNone(a, b)
+{
+  return 0;
+}
+
 function processSections(list, base, level)
 {
   for (var i = 0; i < list.length; i++)
@@ -260,6 +264,9 @@ function processAchievements(list, base)
       break;
     case 'name':
       list.sort(sortName);
+      break;
+    case 'none':
+      list.sort(sortNone);
       break;
   }
   
