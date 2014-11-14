@@ -9,7 +9,7 @@
         "icon": "2a3afa95fa23e60082cd1655aa8db1f70e3e4ff4",
         "name": "No One Cared Who I Was...",
         "description": "Until I put on the mask.",
-        "rate": 63.99
+        "rate": 63.87
       },
       {
         "id": "coming-in-hot",
@@ -17,7 +17,7 @@
         "icon": "f6ed9cd6ec9750bcd36193c74e6f16104f6c1267",
         "name": "Coming in Hot",
         "description": "On day 1 of the Watchdogs job, don't let the cops shoot and destroy the escape vehicle.",
-        "rate": 18.95
+        "rate": 19.14
       },
       {
         "id": "fish-ai",
@@ -25,7 +25,7 @@
         "icon": "19fd9f952f27bad6bc909721a69c6374cfa5e31b",
         "name": "Fish A.I.",
         "description": "On day 2 of the Watchdogs job, throw a loot bag into the sea, hoping fish move away as it gets near.",
-        "rate": 22.35
+        "rate": 22.59
       },
       {
         "id": "f-in-chemistry",
@@ -33,7 +33,7 @@
         "icon": "2b6c1eea57aa735244c2eb03218cd7094b93df1d",
         "name": "F in Chemistry",
         "description": "On day 1 of the Rat job, blow up the lab.",
-        "rate": 28.25
+        "rate": 28.6
       },
       {
         "id": "caribbean-pirate",
@@ -41,7 +41,7 @@
         "icon": "04b2e4fbd4b4039c4c8b6c4f650625d6058fad44",
         "name": "Caribbean Pirate",
         "description": "On day 2 of the Rat job, bring additional meth bags to the trade, but steal your payment instead.",
-        "rate": 5.66
+        "rate": 5.85
       },
       {
         "id": "short-fuse",
@@ -49,7 +49,7 @@
         "icon": "b8f2b01178848515ed4c614fc72063e2faa90268",
         "name": "Short Fuse",
         "description": "On day 3 of the Rat job, get away with 7 bags without defusing any bombs.",
-        "rate": 2.93
+        "rate": 3.05
       },
       {
         "id": "painting-yourself-into-a-corner",
@@ -57,7 +57,7 @@
         "icon": "e1ecff0ed39f3767a44747cdf494a46c62e85016",
         "name": "Painting Yourself Into a Corner",
         "description": "On day 1 of the Framing Frame job, steal all sold paintings without being seen.",
-        "rate": 9.39
+        "rate": 9.5
       },
       {
         "id": "big-deal",
@@ -65,7 +65,7 @@
         "icon": "d816f0af83b08c157dbee0f51e231f7f4e3dbee2",
         "name": "Big Deal",
         "description": "On day 2 of the Framing Frame job, trade 9 paintings.",
-        "rate": 7.92
+        "rate": 8
       },
       {
         "id": "i-wasn-t-even-there",
@@ -73,7 +73,7 @@
         "icon": "14ba55c00f6fd0da4ce747ca0df645de8da94c57",
         "name": "I Wasn't Even There!",
         "description": "On day 3 of the Framing Frame job, send the gold by zip-line without ever tripping the alarm.",
-        "rate": 10.73
+        "rate": 10.8
       },
       {
         "id": "i-knew-what-i-did-was-wrong",
@@ -81,7 +81,7 @@
         "icon": "f18310f393daa51e26a3430b3d751a16b682dc1d",
         "name": "I Knew What I Did Was Wrong",
         "description": "On day 1 of the Big Oil job, enter the basement, open the ATM machines and take the loot.",
-        "rate": 9.33
+        "rate": 9.55
       },
       {
         "id": "doctor-fantastic",
@@ -89,7 +89,7 @@
         "icon": "dc09994541fef85f8155fa4e8763dc830747c80b",
         "name": "Doctor Fantastic",
         "description": "On day 2 of the Big Oil job, complete the heist with the first engine being correct.",
-        "rate": 10.8
+        "rate": 10.97
       },
       {
         "id": "diamonds-are-forever",
@@ -97,7 +97,7 @@
         "icon": "e54a9fd99000afe0abfd18b47c33ffba25b4f9f0",
         "name": "Diamonds Are Forever",
         "description": "In the Jewelry store job, steal and secure 4 bags without the escape car leaving the first time.",
-        "rate": 27.07
+        "rate": 27.68
       },
       {
         "id": "let-s-do-th",
@@ -105,7 +105,7 @@
         "icon": "1d7ec21391e0b89bfd8eba652b4bd1da6dc81e3d",
         "name": "Let's Do Th...",
         "description": "In the Ukranian job, complete the heist within 35 seconds.",
-        "rate": 6.6
+        "rate": 6.79
       },
       {
         "id": "yeah-he-s-a-gold-digger",
@@ -113,7 +113,7 @@
         "icon": "085f060c6ccb1dde110df62deea9eaf1a29f6d3c",
         "name": "Yeah He's a Gold Digger",
         "description": "In the Four Stores job, find a gold bar in a safe.",
-        "rate": 31.27
+        "rate": 31.47
       },
       {
         "id": "i-m-going-all-in",
@@ -121,7 +121,7 @@
         "icon": "933513d08988998f4fca812788bb4c47c3be3f22",
         "name": "I'm Going All-in!",
         "description": "In the Nightclub job, put a bag filled with money on the poker table.",
-        "rate": 13.77
+        "rate": 14.07
       },
       {
         "id": "shoot-the-glass",
@@ -129,7 +129,7 @@
         "icon": "38a584e6eef1b07a9bf7ea07463de7f31d2158de",
         "name": "Shoot the Glass!",
         "description": "In the Mallcrasher job, destroy all windows in the mall.",
-        "rate": 4.5
+        "rate": 4.67
       },
       {
         "id": "lord-of-war",
@@ -137,7 +137,7 @@
         "icon": "b52a5507f57815b1e19fff7bd756c04c88f563e7",
         "name": "Lord of War",
         "description": "On day 1 of the Firestarter job, steal all the weapons from the hangar.",
-        "rate": 24.21
+        "rate": 24.54
       },
       {
         "id": "guessing-game",
@@ -145,7 +145,7 @@
         "icon": "71bda81bbd8a315338ca9e9d00334cd6c0213ad2",
         "name": "Guessing Game",
         "description": "On day 2 of the Firestarter job, complete the heist in stealth without hacking the computer.",
-        "rate": 2.49
+        "rate": 2.6
       },
       {
         "id": "the-first-line",
@@ -153,7 +153,7 @@
         "icon": "1481f645491b2309e162456e7d57f2ba8777b9cf",
         "name": "The First Line",
         "description": "On day 3 of the Firestarter job, find the rare hockey poster of the OVERKILL hockey team.",
-        "rate": 19.99
+        "rate": 20.34
       },
       {
         "id": "king-of-the-hill",
@@ -161,7 +161,7 @@
         "icon": "bc36c5d293c9c4fbbf31b0c84f3d14702534ff06",
         "name": "King of the Hill",
         "description": "In the Park escape, ensure that no law enforcement enters the park before the escape van arrives.",
-        "rate": 8.66
+        "rate": 8.78
       },
       {
         "id": "you-shall-not-pass",
@@ -169,7 +169,7 @@
         "icon": "7f8ab20d669192dab4b1ddaba7d6cd9691948250",
         "name": "You Shall Not Pass!",
         "description": "In the Overpass escape, don't let the cops set foot on the bridge before you can escape.",
-        "rate": 4.57
+        "rate": 4.66
       },
       {
         "id": "cappuccino-to-go-please",
@@ -177,7 +177,7 @@
         "icon": "f6483168f9290d1ee2402a54556fbf502be2dd41",
         "name": "Cappuccino to Go, Please",
         "description": "In the Cafe escape, secure all loot and escape within 30 seconds of the escape van arriving.",
-        "rate": 17.72
+        "rate": 17.92
       },
       {
         "id": "bullet-dodger",
@@ -185,7 +185,7 @@
         "icon": "a9cd9adf9c41cf2e869b0a45ee612c4925fcdc95",
         "name": "Bullet Dodger",
         "description": "In the Street escape, complete the escape without killing any enemy snipers.",
-        "rate": 6.16
+        "rate": 6.34
       },
       {
         "id": "they-see-me-baggin-they-hatin",
@@ -193,7 +193,7 @@
         "icon": "d2a899a81f1650fd0b322459852a8cea19e679a1",
         "name": "They See Me Baggin', They Hatin'",
         "description": "On the Garage escape, get away with 8 bags.",
-        "rate": 3.02
+        "rate": 3.16
       },
       {
         "id": "tip-the-scales",
@@ -201,7 +201,7 @@
         "icon": "d5b309eae225fa9b6da6f828f51df924d8c303eb",
         "name": "Tip the Scales",
         "description": "In the safe house, find the hidden basement.",
-        "rate": 55.32
+        "rate": 55.25
       },
       {
         "id": "how-do-you-like-me-now",
@@ -209,7 +209,7 @@
         "icon": "3859e55f2038366c5901447682a6703c42dbc752",
         "name": "How Do You Like Me Now?",
         "description": "Equip an armor for the first time.",
-        "rate": 53.23
+        "rate": 53.29
       },
       {
         "id": "man-of-iron",
@@ -217,7 +217,7 @@
         "icon": "d7c2871612bc8241ab11e826e3bb0b5759a5a4ce",
         "name": "Man of Iron",
         "description": "Equip the Improved Combined Tactical Vest.",
-        "rate": 10.56
+        "rate": 11.12
       },
       {
         "id": "would-you-like-your-receipt",
@@ -225,7 +225,7 @@
         "icon": "23300e62dbb2d70b851c6f7f6a3f91ad2033d85b",
         "name": "Would You Like Your Receipt?",
         "description": "Buy a weapon for the first time.",
-        "rate": 45.21
+        "rate": 45.44
       },
       {
         "id": "armed-to-the-teeth",
@@ -233,7 +233,7 @@
         "icon": "5b406036fb73387c565fdcfca5d12dcfb9202a4f",
         "name": "Armed to the Teeth",
         "description": "Modify a weapon for the first time.",
-        "rate": 43
+        "rate": 43.28
       },
       {
         "id": "fully-loaded",
@@ -241,7 +241,7 @@
         "icon": "d02e26f05dce116f3ce68f573ddb447596f12e2e",
         "name": "Fully Loaded",
         "description": "Own 9 weapons.",
-        "rate": 18.48
+        "rate": 19.25
       },
       {
         "id": "weapon-collector",
@@ -249,7 +249,7 @@
         "icon": "ec68824f3dba420a441a7e09251ccd37d98c2777",
         "name": "Weapon Collector",
         "description": "Own 18 weapons.",
-        "rate": 8.09
+        "rate": 8.6
       },
       {
         "id": "masked-villain",
@@ -257,7 +257,7 @@
         "icon": "6ddff343b5a6d03fa3c6fbe69854a7d42b581e2a",
         "name": "Masked Villain",
         "description": "Modify a mask for the first time.",
-        "rate": 23.43
+        "rate": 24.04
       },
       {
         "id": "i-got-it-i-got-it",
@@ -265,7 +265,7 @@
         "icon": "382ebe1838de9c03206289a6927438771d529235",
         "name": "I Got It, I Got It!",
         "description": "Catch a bag mid-air.",
-        "rate": 20.96
+        "rate": 21.39
       },
       {
         "id": "no-turning-back",
@@ -273,7 +273,7 @@
         "icon": "6cbdd168efa4938c76fba92e13753291d50ff5aa",
         "name": "No Turning Back",
         "description": "Complete your first job.",
-        "rate": 60.95
+        "rate": 60.89
       },
       {
         "id": "i-m-a-healer-tank-damage-dealer",
@@ -281,7 +281,7 @@
         "icon": "aff4d0fcb0eea2fa880b500ae2fd9ba93aeffe28",
         "name": "I'm a Healer-Tank-Damage-Dealer",
         "description": "Spend 10 skill points in each skill tree.",
-        "rate": 6.6
+        "rate": 6.84
       },
       {
         "id": "spend-money-to-make-money",
@@ -289,7 +289,7 @@
         "icon": "13933ede8631db6836a95d02ea0c97d38126fc3f",
         "name": "Spend Money to Make Money",
         "description": "Spend $1.000.000 in total cash.",
-        "rate": 34.22
+        "rate": 34.79
       },
       {
         "id": "going-places",
@@ -297,7 +297,7 @@
         "icon": "f8131abafa3ef775f167e3ea31a3406e481ff1ce",
         "name": "Going Places",
         "description": "Gain $1.000.000 in total spendable cash.",
-        "rate": 28.19
+        "rate": 29.04
       },
       {
         "id": "you-gotta-start-somewhere",
@@ -305,7 +305,7 @@
         "icon": "d20fb4decd312049d45d782ca4775eb73bc47cae",
         "name": "You Gotta Start Somewhere",
         "description": "Reach reputation level 5.",
-        "rate": 46.17
+        "rate": 46.41
       },
       {
         "id": "guilty-of-crime",
@@ -313,7 +313,7 @@
         "icon": "deb36f863f1f7493ee01ef78053cad842fd83b28",
         "name": "Guilty of Crime",
         "description": "Reach reputation level 10.",
-        "rate": 39.88
+        "rate": 40.29
       },
       {
         "id": "smooth-criminal",
@@ -321,7 +321,7 @@
         "icon": "ec3d5c539f54d73a92003251d51ee82a4f443cb6",
         "name": "Smooth Criminal",
         "description": "Reach reputation level 25.",
-        "rate": 33.29
+        "rate": 33.9
       },
       {
         "id": "armed-and-dangerous",
@@ -329,7 +329,7 @@
         "icon": "33e428df27b6267474aac7deb20c25e37770f6e3",
         "name": "Armed and Dangerous",
         "description": "Reach reputation level 50.",
-        "rate": 20.86
+        "rate": 21.8
       },
       {
         "id": "career-criminal",
@@ -337,7 +337,7 @@
         "icon": "83299bb498d2f6fc129f5e245f0928af4b9e15e4",
         "name": "Career Criminal",
         "description": "Reach reputation level 75.",
-        "rate": 9.96
+        "rate": 10.89
       },
       {
         "id": "most-wanted",
@@ -345,7 +345,7 @@
         "icon": "fa65a0d179c040b6f413cd67103c7150f3a94001",
         "name": "Most Wanted",
         "description": "Reach reputation level 100.",
-        "rate": 4.83
+        "rate": 5.42
       }
     ]
   },
@@ -359,7 +359,7 @@
         "icon": "32f2c0df88273d268c859b3cd6f483e2ed33c2eb",
         "name": "Like an Angry Bear!",
         "description": "Equip the \"Mark\" mask. Celebrating 2 years of heists, you can now unlock the \"Mark\" mask by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 14.81,
+        "rate": 15.02,
         "community": true
       }
     ]
@@ -374,7 +374,7 @@
         "icon": "38e8c3fa331753d9a748c69c6fc0cbcae237076a",
         "name": "First Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
-        "rate": 3.74,
+        "rate": 4.35,
         "event": true,
         "unlock": true
       },
@@ -384,7 +384,7 @@
         "icon": "c3a7b83bc156bc700e077b25d3b7d24cac78bf29",
         "name": "Second Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
-        "rate": 3.34,
+        "rate": 3.89,
         "event": true,
         "difficulty": "h",
         "unlock": true
@@ -395,7 +395,7 @@
         "icon": "0c2c648e100044d29f50ea889e81b6f3bba2480e",
         "name": "Third Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
-        "rate": 2.98,
+        "rate": 3.47,
         "event": true,
         "difficulty": "vh",
         "unlock": true
@@ -406,7 +406,7 @@
         "icon": "8261df235193de3c3f65d3bca25f4014bf6de373",
         "name": "Fourth Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
-        "rate": 2.82,
+        "rate": 3.33,
         "event": true,
         "difficulty": "ok",
         "unlock": true
@@ -417,7 +417,7 @@
         "icon": "acda7ac453050557e58e852b0db96b0f61e69c15",
         "name": "I Am the One Who Knocks",
         "description": "On day 1 of the Rats job, cook 3 bags worth of meth without letting any law enforcer enter the house.",
-        "rate": 2.09
+        "rate": 2.22
       },
       {
         "id": "full-measure",
@@ -425,7 +425,7 @@
         "icon": "1999c4afd858cdf56b13e9ccd1720227d94b6d7a",
         "name": "Full Measure",
         "description": "On day 1 of the Rats job, cook and secure 7 bags worth of meth without blowing up the lab on the OVERKILL difficulty or above.",
-        "rate": 3.39,
+        "rate": 3.58,
         "difficulty": "ok"
       },
       {
@@ -434,7 +434,7 @@
         "icon": "b81bd9f41bbc05bb21829b6e022febfa66be9583",
         "name": "Afraid of the Dark",
         "description": "On day 3 of the Framing Frame job, while doing plan B, do not let law enforcers pull the power.",
-        "rate": 3.42
+        "rate": 3.54
       },
       {
         "id": "witch-doctor",
@@ -442,7 +442,7 @@
         "icon": "133b8e36934806d4481ec1adbdd338d0eaa6cadb",
         "name": "Witch Doctor",
         "description": "While wearing the \"Witch\" mask from the Halloween event, revive 50 crew members.",
-        "rate": 1.58,
+        "rate": 1.82,
         "max": 50,
         "count": "halloween_4_stats",
         "event": true
@@ -453,7 +453,7 @@
         "icon": "4f687a3fbef90514028e11aa27645dff4082dc9e",
         "name": "It's Alive! IT'S ALIVE!",
         "description": "While wearing the \"Frank\" mask from the Halloween event, get electrocuted or tased by a Taser 25 times.",
-        "rate": 1.54,
+        "rate": 1.77,
         "max": 25,
         "count": "halloween_5_stats",
         "event": true
@@ -464,7 +464,7 @@
         "icon": "7ea7afc27de133dbe9b734779f87189e58febb56",
         "name": "Pump-Action",
         "description": "While wearing the \"Pumpkin\" mask from the Halloween event, kill 666 enemies using only shotguns.",
-        "rate": 1.62,
+        "rate": 1.87,
         "max": 666,
         "count": "halloween_6_stats",
         "event": true
@@ -475,7 +475,7 @@
         "icon": "5d04047697b2bec3d818a7e12c25059a10cf8a1a",
         "name": "No One Can Hear You Scream",
         "description": "While wearing the \"Venomorph\" mask from the Halloween event, silently kill 50 enemies using only melee.",
-        "rate": 1.51,
+        "rate": 1.68,
         "max": 50,
         "count": "halloween_7_stats",
         "event": true
@@ -486,7 +486,7 @@
         "icon": "70576789b12d6034312a2e1c7a3f4c87102f46f2",
         "name": "The Pumpkin King Made Me Do It!",
         "description": "Kill 666 enemies using only the Interceptor 45 pistol.",
-        "rate": 2.37,
+        "rate": 2.53,
         "max": 666,
         "count": "halloween_8_stats"
       },
@@ -496,7 +496,7 @@
         "icon": "4266f3b5145b088f53e4a28ef342261d68387f8e",
         "name": "Christmas Came Early",
         "description": "Equip the Interceptor 45 pistol. Celebrating Halloween, you can now unlock the Interceptor 45 pistol by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 7.48,
+        "rate": 7.79,
         "community": true
       },
       {
@@ -505,7 +505,7 @@
         "icon": "91a6e70864b138c6f527785eb0adc251507ec1da",
         "name": "From Russia With Love",
         "description": "While wearing the \"Mark\" mask, finish 25 of Vlad's jobs on the OVERKILL difficulty or above.",
-        "rate": 1.91,
+        "rate": 2.03,
         "max": 25,
         "count": "halloween_10_stats",
         "community": true,
@@ -523,7 +523,7 @@
         "icon": "ce133493f475c676cb32e74fc4d036fddff5796e",
         "name": "We're Gonna Need a Bigger Boat",
         "description": "On the Train Heist, steal and secure 40 bags worth of ammo.",
-        "rate": 2.62
+        "rate": 2.76
       },
       {
         "id": "but-wait-there-s-more",
@@ -531,7 +531,7 @@
         "icon": "bc30c61200b307a5d4fa482b913ecc78a9047848",
         "name": "But Wait - There's More!",
         "description": "On any Armored Transport heist, find the plans that unlocks the Train Heist.",
-        "rate": 12.69
+        "rate": 13.09
       },
       {
         "id": "if-you-liked-it-you-should-have-put-a-ring-on-it",
@@ -539,7 +539,7 @@
         "icon": "cedbe562cd65a0f8e693504293558fdda8c8416f",
         "name": "If You Liked It You Should Have Put a Ring on It",
         "description": "Finish any Armored Transport heist, Having Secured at Least 9 Bags of Gold.",
-        "rate": 5.42
+        "rate": 5.63
       },
       {
         "id": "i-do-what-i-do-best-i-take-scores",
@@ -547,7 +547,7 @@
         "icon": "c1b23a813b79bce6d6e9e56eff06f259057ac729",
         "name": "I Do What I Do Best, I Take Scores",
         "description": "While wearing the \"Hockey Heat\" mask, finish any Armored Transport heist 15 times on OVERKILL difficulty or above.",
-        "rate": 1.64,
+        "rate": 1.75,
         "max": 15,
         "count": "armored_4_stats",
         "community": true,
@@ -559,7 +559,7 @@
         "icon": "a09f3601e8482cd12bbe76c481fa61f23330f5c9",
         "name": "License to Kill",
         "description": "Kill 378 enemies using the Gruber Kurz handgun.",
-        "rate": 2.99,
+        "rate": 3.16,
         "max": 378,
         "count": "armored_5_stats",
         "dlc": true
@@ -570,7 +570,7 @@
         "icon": "8fcbf609e71ad9b1f5dc6275c4b2b69232959f0e",
         "name": "Let Them Watch",
         "description": "Finish the Train Heist without killing any snipers.",
-        "rate": 3.23
+        "rate": 3.38
       },
       {
         "id": "i-m-not-a-crook",
@@ -578,7 +578,7 @@
         "icon": "46b6ab7daae6ccaf3a23733a4b0f753636721bb6",
         "name": "I'm Not a Crook!",
         "description": "While wearing the \"37th\" mask, destroy 69 snipers using the Commando 553 rifle.",
-        "rate": 1.57,
+        "rate": 1.68,
         "max": 69,
         "count": "armored_7_stats",
         "dlc": true
@@ -589,7 +589,7 @@
         "icon": "7db7e5b7a957bf59d8379646c87928fc5f986d46",
         "name": "I Did Not Have Sexual Relations With That Bulldozer",
         "description": "While wearing the \"42nd\" mask, trade 7 civilians.",
-        "rate": 1.49,
+        "rate": 1.59,
         "max": 7,
         "count": "armored_8_stats",
         "dlc": true
@@ -600,7 +600,7 @@
         "icon": "fdc4fe5044e6c9ff871b2f6f22a13f2407ee87e4",
         "name": "Fool Me Once, Shame on -Shame on You. Fool Me - You Can't Get Fooled Again",
         "description": "While wearing the \"43rd\" mask, kill 95 Shields using the Swedish K submachine gun.",
-        "rate": 1.53,
+        "rate": 1.63,
         "max": 95,
         "count": "armored_9_stats",
         "dlc": true
@@ -611,7 +611,7 @@
         "icon": "770992208a17a2069f67a2ba0e617cf8f06df820",
         "name": "Affordable Healthcare",
         "description": "While wearing the \"44th\" mask, place 61 doctor bags.",
-        "rate": 1.74,
+        "rate": 1.84,
         "max": 61,
         "count": "armored_10_stats",
         "dlc": true
@@ -622,7 +622,7 @@
         "icon": "2c1bf27f5e8e02a719083b14e743327f78304e5a",
         "name": "Heat Around the Corner",
         "description": "Equip the \"Hockey Heat\" mask. Celebrating the release of the Armored Transport DLC, you can now unlock the \"Hockey Heat\" mask by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 15.53,
+        "rate": 15.98,
         "community": true
       }
     ]
@@ -637,7 +637,7 @@
         "icon": "3113b4314055a0181cc13e9fcd22a27c7fcd6e31",
         "name": "Wanted",
         "description": "While wearing the \"Dolph\" mask, kill 100 enemies using only the AK5 rifle.",
-        "rate": 1.87,
+        "rate": 1.99,
         "max": 100,
         "count": "gage_1_stats",
         "dlc": true
@@ -648,7 +648,7 @@
         "icon": "a3e1bd76e627c7dd6f87f3b944bacb92e808d953",
         "name": "3000 Miles to the Safe House",
         "description": "While wearing the \"Jean-Claude\" mask, kill 100 enemies using only the Kobus 90 submachine gun.",
-        "rate": 1.9,
+        "rate": 2.02,
         "max": 100,
         "count": "gage_2_stats",
         "dlc": true
@@ -659,7 +659,7 @@
         "icon": "ab97975cdb67881bfcc6a31b6840f875d9b8f617",
         "name": "Commando",
         "description": "While wearing the \"Arnold\" mask, kill 100 enemies using only the UAR rifle.",
-        "rate": 1.87,
+        "rate": 1.98,
         "max": 100,
         "count": "gage_3_stats",
         "dlc": true
@@ -670,7 +670,7 @@
         "icon": "f078a25e8d09101ad953e03c3c0c39f4670d4570",
         "name": "Public Enemies",
         "description": "While wearing the \"Chuck\" mask, kill 100 enemies using only the Crosskill pistol.",
-        "rate": 1.87,
+        "rate": 1.98,
         "max": 100,
         "count": "gage_4_stats",
         "dlc": true
@@ -681,7 +681,7 @@
         "icon": "381ef63738ae99d38568390ed18e39b2e8252f2e",
         "name": "Inception",
         "description": "Kill 100 enemies using only the Eagle Heavy rifle.",
-        "rate": 6.09,
+        "rate": 6.27,
         "max": 100,
         "count": "gage_5_stats",
         "dlc": true
@@ -692,7 +692,7 @@
         "icon": "32910e969dc84d1a22c59151d43ca56f3390fcc3",
         "name": "Hard Corps",
         "description": "Kill 100 enemies using only the SpecOps submachine gun.",
-        "rate": 4.52,
+        "rate": 4.71,
         "max": 100,
         "count": "gage_6_stats",
         "dlc": true
@@ -703,7 +703,7 @@
         "icon": "4f5a647fdeb63631b886fa0d60c734f3640685d6",
         "name": "Above the Law",
         "description": "Kill 100 enemies using only the Signature .40 pistol.",
-        "rate": 4.06,
+        "rate": 4.25,
         "max": 100,
         "count": "gage_7_stats",
         "dlc": true
@@ -714,7 +714,7 @@
         "icon": "9daa81aa4a1bccbfa721749e9b2ff69b76f4bf28",
         "name": "Guns Are Like Shoes",
         "description": "Fill up all of the weapon slots.",
-        "rate": 1.91
+        "rate": 2.06
       },
       {
         "id": "fire-in-the-hole",
@@ -722,7 +722,7 @@
         "icon": "1b8024c1037c0a8bd657a38492841b82694bfac0",
         "name": "Fire in the Hole!",
         "description": "Throw 100 grenades.",
-        "rate": 9.32,
+        "rate": 9.73,
         "max": 100,
         "count": "gage_9_stats"
       },
@@ -732,7 +732,7 @@
         "icon": "43be92ec7d3291b72d8bd3ed6dafe0e147926b44",
         "name": "Share the Love",
         "description": "Buy the grenade case asset 100 times.",
-        "rate": 2.28,
+        "rate": 2.4,
         "max": 100,
         "count": "gage_10_stats"
       }
@@ -748,7 +748,7 @@
         "icon": "068108616d9a7569017a611af9c0f5972dfaf638",
         "name": "Sewer Rats",
         "description": "In the GO Bank job, complete the heist having secured all bags of cash via the sewers on the OVERKILL difficulty or above.",
-        "rate": 1.86,
+        "rate": 2.01,
         "difficulty": "ok"
       },
       {
@@ -757,7 +757,7 @@
         "icon": "10db6862afa64f9167c8a4052b16a2d26886141f",
         "name": "Is Everything OK?",
         "description": "In the GO Bank job, complete the heist without having the alarm go off at any point.",
-        "rate": 8.72
+        "rate": 9.33
       },
       {
         "id": "merry-christmas",
@@ -765,7 +765,7 @@
         "icon": "4207219f15dd56d0db7eb87169ab46b0f790c815",
         "name": "Merry Christmas!",
         "description": "Equip the \"Happy Santa\" mask. Celebrating the release of the free Charlie Santa Heist, you can now unlock the \"Happy Santa\" mask by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 12.27,
+        "rate": 12.55,
         "community": true
       },
       {
@@ -774,7 +774,7 @@
         "icon": "1b4609840151be8877e99893c632d6a8de6d12e7",
         "name": "Upside Down",
         "description": "In the GO Bank job, leave a mark on the bank logo.",
-        "rate": 8.41
+        "rate": 8.79
       },
       {
         "id": "all-eggs-in-one-basket",
@@ -782,7 +782,7 @@
         "icon": "823ed838f219485321088fe9c4a96c01b266e689",
         "name": "All Eggs in One Basket",
         "description": "In the GO Bank job, have the plane pick up all bags of cash with the skyhook.",
-        "rate": 8.56
+        "rate": 8.94
       },
       {
         "id": "we-are-all-professionals",
@@ -790,7 +790,7 @@
         "icon": "aa5bc701364cb85660aa0e59358951788b5b1d3d",
         "name": "We Are All Professionals",
         "description": "In the GO Bank job, complete the heist without the alarm going off and without killing any civilians on the OVERKILL difficulty or above.",
-        "rate": 2.04,
+        "rate": 2.19,
         "difficulty": "ok"
       },
       {
@@ -799,7 +799,7 @@
         "icon": "56c8d0608cd066ff276ad2e7b7a092f96121c096",
         "name": "Eco Round",
         "description": "In the GO Bank job, complete the heist without using your primary weapon on the OVERKILL difficulty or above.",
-        "rate": 5.52,
+        "rate": 6.04,
         "difficulty": "ok"
       },
       {
@@ -808,7 +808,7 @@
         "icon": "0a6416b1946c8372a772842f0cbf9645a58da73a",
         "name": "Dead Presents",
         "description": "In the GO Bank job, put at least 4 body bags under the Christmas tree.",
-        "rate": 5.4
+        "rate": 5.81
       },
       {
         "id": "reindeer-games",
@@ -816,7 +816,7 @@
         "icon": "900e08de3a1bee792e530ad36534e5192905b004",
         "name": "Reindeer Games",
         "description": "Complete a heist while you and your four man crew are wearing one different \"Santa\" mask each.",
-        "rate": 1.83,
+        "rate": 1.95,
         "community": true
       }
     ]
@@ -831,7 +831,7 @@
         "icon": "e4c2dbfa2170e8c415c4af875ab0ec5ff54633b1",
         "name": "Becoming Infamous",
         "description": "Reach the first level of infamy.",
-        "rate": 5.3
+        "rate": 5.92
       },
       {
         "id": "becoming-disgraceful",
@@ -839,7 +839,7 @@
         "icon": "f8702677e30af0093bfd5aa278b121ef74fbbc94",
         "name": "Becoming Disgraceful",
         "description": "Reach the second level of infamy.",
-        "rate": 3.52
+        "rate": 3.91
       },
       {
         "id": "becoming-wicked",
@@ -847,7 +847,7 @@
         "icon": "c06136254595dffb4f027861f363210a40305b11",
         "name": "Becoming Wicked",
         "description": "Reach the third level of infamy.",
-        "rate": 2.8
+        "rate": 3.09
       },
       {
         "id": "becoming-notorious",
@@ -855,7 +855,7 @@
         "icon": "1027c23244ac1067bb397f3de4cc3e3055c0eed5",
         "name": "Becoming Notorious",
         "description": "Reach the fourth level of infamy.",
-        "rate": 2.43
+        "rate": 2.67
       },
       {
         "id": "becoming-vicious",
@@ -863,7 +863,7 @@
         "icon": "44a329fdd7a6fff5e56c4136f4e29e7d57065fb8",
         "name": "Becoming Vicious",
         "description": "Reach the fifth level of infamy.",
-        "rate": 2.69
+        "rate": 2.93
       }
     ]
   },
@@ -877,7 +877,7 @@
         "icon": "7d957a4c88abb95bc90d622e80553cabe47494c4",
         "name": "Doctor Miserable",
         "description": "On day 2 of the Big Oil job, complete the heist with the last engine being correct on the OVERKILL difficulty or above.",
-        "rate": 1.47,
+        "rate": 1.59,
         "difficulty": "ok"
       },
       {
@@ -886,7 +886,7 @@
         "icon": "740b3557861de178c3969b79b0ae74c0b04a6df4",
         "name": "Cloak and Dagger",
         "description": "Kill a Cloaker with a knife.",
-        "rate": 4.37,
+        "rate": 5.06,
         "dlc": true
       },
       {
@@ -895,7 +895,7 @@
         "icon": "28782015e6b8b474524b8b4d8ad9034aa74fe8c4",
         "name": "The Eighth and Final Rule",
         "description": "On the Night Club heist, kill 50 enemies using your fists.",
-        "rate": 1.65,
+        "rate": 1.78,
         "max": 50,
         "count": "gage2_3_stats"
       },
@@ -905,7 +905,7 @@
         "icon": "2873aa1cfffa3c1e76b1b5bade4293dae3786ddf",
         "name": "Killin's As Easy As Breathing",
         "description": "Kill 10 enemies in a row using any light machine gun without releasing the trigger.",
-        "rate": 2.06,
+        "rate": 2.25,
         "dlc": true
       },
       {
@@ -914,7 +914,7 @@
         "icon": "5d5b68de0b1a1dee2b72e1405e2c09b5ae811ba8",
         "name": "They Drew First Blood, Not Me",
         "description": "Kill 220 enemies in a single heist using any light machine gun.",
-        "rate": 1.6,
+        "rate": 1.73,
         "dlc": true
       },
       {
@@ -923,7 +923,7 @@
         "icon": "edddc617607e26fafb5b3117c03c8cf2cb9f0fbf",
         "name": "In Town You're the Law, Out Here It's Me",
         "description": "Kill a jump kicking Cloaker using any shotgun.",
-        "rate": 5.28
+        "rate": 5.64
       },
       {
         "id": "dont-push-it",
@@ -931,7 +931,7 @@
         "icon": "8b8ac9176efe128f2bb3184ec01971f8a7a82ccf",
         "name": "Don't Push It",
         "description": "Kill a charging Cloaker using the Deagle pistol.",
-        "rate": 3.75
+        "rate": 3.99
       },
       {
         "id": "holy-shi",
@@ -939,7 +939,7 @@
         "icon": "1c44fddb6a289b229f56f5cfce416fa70942c63c",
         "name": "HOLY SHI-",
         "description": "You finally got what you were asking for!",
-        "rate": 33.41
+        "rate": 34.02
       },
       {
         "id": "i-aint-got-time-to-bleed",
@@ -947,7 +947,7 @@
         "icon": "81f46b511425309ae6a3a8446893a9239126e40e",
         "name": "I Ain't Got Time to Bleed",
         "description": "Take down 15 FBI SWAT and FBI Heavy SWAT units with a knife while at 25% or less health on the OVERKILL difficulty or above.",
-        "rate": 1.49,
+        "rate": 1.63,
         "max": 15,
         "count": "gage2_9_stats",
         "dlc": true,
@@ -959,7 +959,7 @@
         "icon": "9c71482861d6319dd4953b268a8a4b2ce633f7b0",
         "name": "Are You Kidding Me?",
         "description": "Kill a Bulldozer in a knife fight.",
-        "rate": 2.54,
+        "rate": 2.82,
         "dlc": true
       }
     ]
@@ -974,7 +974,7 @@
         "icon": "91c946ec7570a5fa85ad0f95913c1d0aef15615f",
         "name": "Wedding Crashers",
         "description": "Complete the Ukrainian pro job on the Death Wish difficulty.",
-        "rate": 6.9,
+        "rate": 7.47,
         "difficulty": "dw"
       },
       {
@@ -983,7 +983,7 @@
         "icon": "4f7a04f8b37bc3d44c45b54902dae162a0271013",
         "name": "Came in Like a Wrecking Ball",
         "description": "Complete the Mallcrasher job on the Death Wish difficulty.",
-        "rate": 5.19,
+        "rate": 5.52,
         "difficulty": "dw"
       },
       {
@@ -992,7 +992,7 @@
         "icon": "9cc6c58d2e15799940c65e5716e1c901f64e805d",
         "name": "Becoming a Regular",
         "description": "Complete the Four Stores job on the Death Wish difficulty.",
-        "rate": 5.95,
+        "rate": 6.4,
         "difficulty": "dw"
       },
       {
@@ -1001,7 +1001,7 @@
         "icon": "026815589174e27957a723868dd45040d817cd17",
         "name": "Blood on the Dance Floor",
         "description": "Complete the Nightclub job on the Death Wish difficulty.",
-        "rate": 5.17,
+        "rate": 5.56,
         "difficulty": "dw"
       },
       {
@@ -1010,7 +1010,7 @@
         "icon": "de5e10f5cdb3382e7ac4b3654424a2e9452602f4",
         "name": "Like a Fucking Sputnik!",
         "description": "Complete all of Vlads contracts on the Death Wish difficulty.",
-        "rate": 3.28,
+        "rate": 3.5,
         "difficulty": "dw"
       },
       {
@@ -1019,7 +1019,7 @@
         "icon": "2d5836d92129192009f6e902f413c452459ce3fe",
         "name": "Who Let the Doge Out?",
         "description": "Complete the Watchdogs pro job on the Death Wish difficulty.",
-        "rate": 3.33,
+        "rate": 3.55,
         "difficulty": "dw"
       },
       {
@@ -1028,7 +1028,7 @@
         "icon": "2f6173765d5c2b7a862673767361fa2ae5a18b51",
         "name": "If You Can't Take the Heat...",
         "description": "Complete the Rats pro job on the Death Wish difficulty.",
-        "rate": 4.25,
+        "rate": 4.47,
         "difficulty": "dw"
       },
       {
@@ -1037,7 +1037,7 @@
         "icon": "f64272bce2c0c00bcafa401cd3377864eaeb7548",
         "name": "Into the Lion's Den",
         "description": "Complete the Firestarter pro job on the Death Wish difficulty.",
-        "rate": 4.91,
+        "rate": 5.12,
         "difficulty": "dw"
       },
       {
@@ -1046,7 +1046,7 @@
         "icon": "3bc9b461c5f24de457bff179270207ef71eedb88",
         "name": "High Way to Hell",
         "description": "Complete all of Hectors contracts on the Death Wish difficulty.",
-        "rate": 2.08,
+        "rate": 2.23,
         "difficulty": "dw"
       },
       {
@@ -1055,7 +1055,7 @@
         "icon": "cc2196bd5fd922f2f41a5f0aff3a70c73631eb5c",
         "name": "Making Crime Into an Art Form",
         "description": "Complete the Framing Frame pro job on the Death Wish difficulty.",
-        "rate": 4.33,
+        "rate": 4.55,
         "difficulty": "dw"
       },
       {
@@ -1064,7 +1064,7 @@
         "icon": "3a37159ed662402ec0121e2d4406549ac620d5bc",
         "name": "Changing the World...",
         "description": "Complete the Big Oil pro job on the Death Wish difficulty.",
-        "rate": 3.89,
+        "rate": 4.11,
         "difficulty": "dw"
       },
       {
@@ -1073,7 +1073,7 @@
         "icon": "e0d94b9c0ca3745c7dade07575a6ad6907da1a9f",
         "name": "… For Better or Worse",
         "description": "Complete all of the Elephants contracts on the Death Wish difficulty.",
-        "rate": 2.14,
+        "rate": 2.28,
         "difficulty": "dw"
       },
       {
@@ -1082,7 +1082,7 @@
         "icon": "dd2c9fddf40cb1ff0b59a872944ae954d6717b9d",
         "name": "Snatch and Grab",
         "description": "Complete the Jewelry Store job on the Death Wish difficulty.",
-        "rate": 8.19,
+        "rate": 8.93,
         "difficulty": "dw"
       },
       {
@@ -1091,7 +1091,7 @@
         "icon": "70caef5b0c2ed46e9bec9c7a8a4656f6dd1e4844",
         "name": "Tough As Diamonds",
         "description": "Complete the Diamond Store job on the Death Wish difficulty.",
-        "rate": 7.67,
+        "rate": 8.37,
         "difficulty": "dw"
       },
       {
@@ -1100,7 +1100,7 @@
         "icon": "efd6a0b8c95ede76ae6ef1828a988ae9774c2931",
         "name": "Cash in Before You Cash Out!",
         "description": "Complete the GO Bank job on the Death Wish difficulty.",
-        "rate": 5.56,
+        "rate": 6.21,
         "difficulty": "dw"
       },
       {
@@ -1109,7 +1109,7 @@
         "icon": "08707b101bfd2d93b1de95f9017bce619e6f9bf6",
         "name": "Because That's Where the Money Is",
         "description": "Complete the Bank Heist pro job on the Death Wish difficulty.",
-        "rate": 5.98,
+        "rate": 6.56,
         "difficulty": "dw"
       },
       {
@@ -1118,7 +1118,7 @@
         "icon": "fd8c62b7580c5014c31cadaf9d793ec4a8189341",
         "name": "Striking Gold",
         "description": "Complete the Bank Heist: Gold pro job on the Death Wish difficulty.",
-        "rate": 8.31,
+        "rate": 9.16,
         "difficulty": "dw"
       },
       {
@@ -1127,7 +1127,7 @@
         "icon": "a5224ed7632ea8d797c0d0e053c54e488db549f7",
         "name": "Cash Is King",
         "description": "Complete the Bank Heist: Cash job on the Death Wish difficulty.",
-        "rate": 6.93,
+        "rate": 7.59,
         "difficulty": "dw"
       },
       {
@@ -1136,7 +1136,7 @@
         "icon": "42ec406b4381ff3f65cd25841359d1347913e157",
         "name": "Yes Hello, I'd Like to Make a De-paws-it",
         "description": "Complete the Bank Heist: Deposit job on the Death Wish difficulty.",
-        "rate": 5.67,
+        "rate": 6.17,
         "difficulty": "dw"
       },
       {
@@ -1145,7 +1145,7 @@
         "icon": "88701876a6989f5feaa1cc76d50f0227c0b9ffb2",
         "name": "At a Crossroads",
         "description": "Complete the Transport: Crossroads job on the Death Wish difficulty.",
-        "rate": 2.84,
+        "rate": 3.05,
         "difficulty": "dw"
       },
       {
@@ -1154,7 +1154,7 @@
         "icon": "199019a7fb3e051f3705685a88c1f545ef0f4a76",
         "name": "Downtown Madness",
         "description": "Complete the Transport: Downtown job on the Death Wish difficulty.",
-        "rate": 2.81,
+        "rate": 3.02,
         "difficulty": "dw"
       },
       {
@@ -1163,7 +1163,7 @@
         "icon": "628a1b543817ec8193baf2b2fb26d1afe6513588",
         "name": "Shipment and Handling",
         "description": "Complete the Transport: Harbor job on the Death Wish difficulty.",
-        "rate": 2.78,
+        "rate": 2.98,
         "difficulty": "dw"
       },
       {
@@ -1172,7 +1172,7 @@
         "icon": "dcdfafbe3ff09168308e22adccf8aa46fd607302",
         "name": "A Walk in the Park",
         "description": "Complete the Transport: Park job on the Death Wish difficulty.",
-        "rate": 2.75,
+        "rate": 2.94,
         "difficulty": "dw"
       },
       {
@@ -1181,7 +1181,7 @@
         "icon": "5ab74f17063db8c3a54a820097804517ebe87831",
         "name": "It's Always Foggy in Washington D.C.",
         "description": "Complete the Transport: Underpass job on the Death Wish difficulty.",
-        "rate": 2.84,
+        "rate": 3.05,
         "difficulty": "dw"
       },
       {
@@ -1190,7 +1190,7 @@
         "icon": "4d0594634a2379350d76a710cdb9928c94b8ae81",
         "name": "Long-Term Relationship",
         "description": "Complete all of Bains contracts on the Death Wish difficulty.",
-        "rate": 2.08,
+        "rate": 2.22,
         "difficulty": "dw"
       },
       {
@@ -1199,7 +1199,7 @@
         "icon": "db8795d73475102c63f8c5dfb05fd24d16efad55",
         "name": "Tough Act to Follow",
         "description": "Complete all contracts including pro jobs on the Hard difficulty.",
-        "rate": 2.11,
+        "rate": 2.23,
         "difficulty": "h",
         "unlock": true
       },
@@ -1209,7 +1209,7 @@
         "icon": "04a221cd1913d560bfc72344ed5e51d5a8e21bb1",
         "name": "Shit Just Got Real",
         "description": "Complete all contracts including pro jobs on the Very Hard difficulty.",
-        "rate": 1.8,
+        "rate": 1.91,
         "difficulty": "vh",
         "unlock": true
       },
@@ -1219,7 +1219,7 @@
         "icon": "95eafab73ba2ce113e4ea00f2c4ce9565483b63a",
         "name": "Completely OVERKILL!",
         "description": "Complete all contracts including pro jobs on the OVERKILL difficulty.",
-        "rate": 1.97,
+        "rate": 2.09,
         "difficulty": "ok",
         "unlock": true
       },
@@ -1229,7 +1229,7 @@
         "icon": "82152b04378c6909a5a939e7f801166d5a33166e",
         "name": "OVERKILL Salutes You!",
         "description": "Complete all contracts including pro jobs on the Death Wish difficulty.",
-        "rate": 1.89,
+        "rate": 2.02,
         "difficulty": "dw",
         "unlock": true
       },
@@ -1239,7 +1239,7 @@
         "icon": "d1601190fbe085de40dc7fdae2d18a71aa05903a",
         "name": "With an Iron Fist",
         "description": "Equip the 350K brass knuckles. Celebrating the release of the Death Wish update, you can now unlock the 350K knuckles by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 20.21,
+        "rate": 20.73,
         "community": true
       },
       {
@@ -1248,7 +1248,7 @@
         "icon": "53f0a4c0fa6e25a4faefea9065179dedc1f686e5",
         "name": "I'm a Firestarter",
         "description": "Complete the Firestarter job on the Death Wish difficulty.",
-        "rate": 3.58,
+        "rate": 3.78,
         "difficulty": "dw"
       },
       {
@@ -1257,7 +1257,7 @@
         "icon": "66a36f9f72b4d2760a035a603eedae171d6496fa",
         "name": "Breaking Bad",
         "description": "Complete the Rats job on the Death Wish difficulty.",
-        "rate": 3.05,
+        "rate": 3.25,
         "difficulty": "dw"
       },
       {
@@ -1266,7 +1266,7 @@
         "icon": "187ee76741a01672cc4dec38049ceb12471dca03",
         "name": "Special Delivery",
         "description": "Complete the Watchdogs job on the Death Wish difficulty.",
-        "rate": 2.79,
+        "rate": 2.97,
         "difficulty": "dw"
       },
       {
@@ -1275,7 +1275,7 @@
         "icon": "641abc4cda7391af349523cb1a0fe41f3473e74d",
         "name": "Moonlighting",
         "description": "Complete the Framing Frame job on the Death Wish difficulty.",
-        "rate": 4.21,
+        "rate": 4.43,
         "difficulty": "dw"
       }
     ]
@@ -1290,7 +1290,7 @@
         "icon": "660f1ea9d10ff8d0748d6bd7749ad78a50fea747",
         "name": "A Vote for Change",
         "description": "Equip the Chimano Custom pistol. Celebrating the release of the Election Day Heist, you can now unlock the Chimano Custom pistol by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 4.71,
+        "rate": 5.03,
         "community": true
       },
       {
@@ -1299,7 +1299,7 @@
         "icon": "1ee2526029d39b829aa1550b37381019e317cd4d",
         "name": "I Invented the Internet",
         "description": "Complete the Election Day pro job on the Death Wish difficulty.",
-        "rate": 3.42,
+        "rate": 3.64,
         "difficulty": "dw"
       },
       {
@@ -1308,7 +1308,7 @@
         "icon": "3b237f3e2bbc888d511ace0e3e9487e9411706fd",
         "name": "I'm a Swinger",
         "description": "In the Election Day job, complete the heist in stealth and swing the votes to the republican favour.",
-        "rate": 5.19
+        "rate": 5.44
       },
       {
         "id": "storage-hunter",
@@ -1316,7 +1316,7 @@
         "icon": "7ae91759922c2df7f7f685b1bc53a4b12c3e4793",
         "name": "Storage Hunter",
         "description": "On day 2 of the Election Day job, steal all of the extra loot in the storage bins.",
-        "rate": 4.85
+        "rate": 5.07
       },
       {
         "id": "master-detective",
@@ -1324,7 +1324,7 @@
         "icon": "4488a7835391639f49209a6c32005a0e5d863cb4",
         "name": "Master Detective",
         "description": "On day 1 of the Election Day job, tag the right truck.",
-        "rate": 9.63
+        "rate": 9.99
       },
       {
         "id": "murphy's-law",
@@ -1332,7 +1332,7 @@
         "icon": "3b4474ce9fa3177fde8581eabefa44d02cc52de3",
         "name": "Murphy's Law",
         "description": "On day 1 of the Election Day job, tag the wrong truck, then find nothing in the vault.",
-        "rate": 3.03
+        "rate": 3.2
       },
       {
         "id": "death-wish-swinger",
@@ -1340,7 +1340,7 @@
         "icon": "f066a3cdea6c2322490b12b086cae823bf089725",
         "name": "Death Wish Swinger",
         "description": "In the Election Day job, complete the heist in stealth and swing the votes to the republican favour on the Death Wish difficulty.",
-        "rate": 3.45,
+        "rate": 3.67,
         "difficulty": "dw"
       },
       {
@@ -1349,7 +1349,7 @@
         "icon": "c80ee8e702bf2e6ec9d925f02111676682b81cc1",
         "name": "Hot Lava 2.0",
         "description": "On day 1 of the Election Day job, use the computer in stealth without ever touching the ground.",
-        "rate": 1.69
+        "rate": 1.82
       },
       {
         "id": "yes-we-can",
@@ -1357,7 +1357,7 @@
         "icon": "764c3eceaeeabc2c9f0e0f1fb726e78eca66e415",
         "name": "Yes We Can!",
         "description": "Complete the Election Day job on the Death Wish difficulty.",
-        "rate": 3.54,
+        "rate": 3.78,
         "difficulty": "dw"
       },
       {
@@ -1366,7 +1366,7 @@
         "icon": "1a9c7bcc847b299468d6d93ec3e4029a61d90e7b",
         "name": "Ghost Riders",
         "description": "Complete a heist while you and your four man crew are wearing one different difficulty mask each.",
-        "rate": 1.46
+        "rate": 1.56
       }
     ]
   },
@@ -1380,7 +1380,7 @@
         "icon": "79b9f092bcc178282daaa4e3c3848a193764abe4",
         "name": "Praying Mantis",
         "description": "Collect 5 packages with the green mantis stamp on to earn a green crate.",
-        "rate": 9.36,
+        "rate": 9.9,
         "max": 5,
         "count": "gmod_1_stats",
         "dlc": true
@@ -1391,7 +1391,7 @@
         "icon": "818f3ccdfb135b8ce0b8d37dd4c9bfebb5c58eb1",
         "name": "Bull's-Eye",
         "description": "Collect 10 packages with the yellow bull stamp on to earn a yellow crate.",
-        "rate": 8.54,
+        "rate": 9.09,
         "max": 10,
         "count": "gmod_2_stats",
         "dlc": true
@@ -1402,7 +1402,7 @@
         "icon": "1b85eacdecf87c7f7051fc71e729dc44d97dd052",
         "name": "My Spider Sense is Tingling",
         "description": "Collect 15 packages with the red spider stamp on to earn a red crate.",
-        "rate": 7.99,
+        "rate": 8.55,
         "max": 15,
         "count": "gmod_3_stats",
         "dlc": true
@@ -1413,7 +1413,7 @@
         "icon": "8eeb596939353b5e440251ac124d3bf37cd544f6",
         "name": "Eagle Eyes",
         "description": "Collect 20 packages with the blue eagle stamp on to earn a blue crate.",
-        "rate": 7.14,
+        "rate": 7.69,
         "max": 20,
         "count": "gmod_4_stats",
         "dlc": true
@@ -1424,7 +1424,7 @@
         "icon": "30048b4b09f8d24d34f9b258174684e9e4a30fb2",
         "name": "Like A Boy Killing Snakes",
         "description": "Collect 25 packages with the purple snake stamp on to earn a purple crate.",
-        "rate": 6.59,
+        "rate": 7.11,
         "max": 25,
         "count": "gmod_5_stats",
         "dlc": true
@@ -1435,7 +1435,7 @@
         "icon": "cad2f8cf754c889a1b8494da7d238538855ec40d",
         "name": "There and Back Again",
         "description": "Earn one of each crate.",
-        "rate": 6.56,
+        "rate": 7.11,
         "dlc": true
       },
       {
@@ -1444,7 +1444,7 @@
         "icon": "afc9700da64f9e7105d05064f10975f61bdf9bb8",
         "name": "High Speed, Low Drag",
         "description": "Modify the CAR-4 rifle with a Competition Foregrip, CAR Quadstacked Mag and a Competitor's Compensator.",
-        "rate": 2.23,
+        "rate": 2.41,
         "dlc": true
       },
       {
@@ -1453,7 +1453,7 @@
         "icon": "eeff497bc29107496e1b297157275250cd13f845",
         "name": "Point 'n' Shoot",
         "description": "Modify any pistol with a Pistol Red Dot Sight and a Flash Hider.",
-        "rate": 3.37,
+        "rate": 3.68,
         "dlc": true
       },
       {
@@ -1462,7 +1462,7 @@
         "icon": "d3c4e8afe05588b3404828652b37461caa2bc300",
         "name": "Mall Ninja",
         "description": "Modify the CAR-4 rifle with a Gazelle Rail, Tactical Compensator, Compact Holosight, Wide Stock and a Military Laser Module.",
-        "rate": 2,
+        "rate": 2.16,
         "dlc": true
       },
       {
@@ -1471,7 +1471,7 @@
         "icon": "b4dbc6063078b2bba85334b3724f5482c2394737",
         "name": "Russian Operator",
         "description": "Modify any AK rifle with a Lightweight Rail, AK Slavic Dragon Barrel, AK Quadstacked Mag and a Funnel of Fun Nozzle.",
-        "rate": 2.89,
+        "rate": 3.11,
         "dlc": true
       }
     ]
@@ -1486,7 +1486,7 @@
         "icon": "34146a80dccd3551bf7ba68fbba6e9ad48b923ea",
         "name": "Build Me an Army Worthy of Crime.net",
         "description": "Equip the golden AK.762 rifle. Celebrating 500,000 heisters in the official community group, you can now unlock the golden AK.762 rifle by simply joining the PAYDAY 2 Official Group on Steam.",
-        "rate": 6.68,
+        "rate": 7.17,
         "community": true
       },
       {
@@ -1495,7 +1495,7 @@
         "icon": "64ca21cb82fd1770adcc21a3704cbb90e4397d02",
         "name": "The Man With the Golden Gun",
         "description": "Kill 6 Skulldozers using only the golden AK.762 rifle.",
-        "rate": 1.27,
+        "rate": 1.39,
         "max": 6,
         "count": "gage3_2_stats",
         "community": true
@@ -1506,7 +1506,7 @@
         "icon": "c1056c25c70bb983cb1bb26da785d68cd8c7a444",
         "name": "Lord of the Flies",
         "description": "Perform 50 headshot kills using any sniper rifle. Unlocks the \"Asilidae\" mask, \"Carapace\" material and \"Bugger\" pattern.",
-        "rate": 6.55,
+        "rate": 6.93,
         "max": 50,
         "count": "gage3_3_stats",
         "dlc": true,
@@ -1518,7 +1518,7 @@
         "icon": "0e499ba4d9d1dd8c216656f8bbf5eab0fb85bf10",
         "name": "Arachne's Curse",
         "description": "Perform 100 headshot kills using any sniper rifle. Unlocks the \"Tarantula\" mask, \"Insectoid\" material and \"Spider Eyes\" pattern.",
-        "rate": 5.67,
+        "rate": 6.03,
         "max": 100,
         "count": "gage3_4_stats",
         "dlc": true,
@@ -1530,7 +1530,7 @@
         "icon": "ce33e305fc204434a42e2cd185316b16fc86a3f5",
         "name": "Pest Control",
         "description": "Perform 250 headshot kills using any sniper rifle. Unlocks the \"Vespula\" mask, \"Bug Shell\" material and \"Venomous\" pattern.",
-        "rate": 4.32,
+        "rate": 4.62,
         "max": 250,
         "count": "gage3_5_stats",
         "dlc": true,
@@ -1542,7 +1542,7 @@
         "icon": "9af33436914f2ff72d16070d0c8002ea2185bce5",
         "name": "Seer of Death",
         "description": "Perform 500 headshot kills using any sniper rifle. Unlocks the \"Sphodromantis\" mask, \"Hard Shell\" material and \"Wings of Death\" pattern.",
-        "rate": 3.24,
+        "rate": 3.49,
         "max": 500,
         "count": "gage3_6_stats",
         "dlc": true,
@@ -1554,7 +1554,7 @@
         "icon": "c41c48f96781a7ce0612f66f769b0eb2acbc5b0f",
         "name": "Far, Far Away",
         "description": "Kill 25 enemies from 40 meters using only the Thanatos .50 cal sniper rifle. Unlocks the Tank Buster Barrel for the Thanatos .50 cal sniper rifle.",
-        "rate": 3.07,
+        "rate": 3.31,
         "max": 25,
         "count": "gage3_7_stats",
         "dlc": true,
@@ -1566,7 +1566,7 @@
         "icon": "2de0904f20a90d606325a8f2a1d9faf9a1f3a6c8",
         "name": "Last Action Villain",
         "description": "Perform a headshot kill on enemies using only the R93 sniper rifle while zip lining. Unlocks the Compensated Suppressor for the R93 sniper rifle.",
-        "rate": 2.61,
+        "rate": 2.79,
         "dlc": true,
         "unlock": true
       },
@@ -1576,7 +1576,7 @@
         "icon": "3e2c59a8f65077e82139c0cce9debf5a42c9384d",
         "name": "Triple Kill",
         "description": "Kill 3 enemies with one bullet using any sniper rifle. Unlocks the Angled sight for all sniper rifles.",
-        "rate": 5.74,
+        "rate": 6.13,
         "dlc": true,
         "unlock": true
       },
@@ -1586,7 +1586,7 @@
         "icon": "a614b1d4f94c9671abab5ef63ee5017df45e80f7",
         "name": "Maximum Penetration",
         "description": "Kill 10 Shields by shooting through their shields using only the R93 sniper rifle. Unlocks the Short Barrel for the R93 sniper rifle.",
-        "rate": 4.26,
+        "rate": 4.54,
         "max": 10,
         "count": "gage3_10_stats",
         "dlc": true,
@@ -1598,7 +1598,7 @@
         "icon": "cb855bb6b046732882a9d1b894d1d7d979762d41",
         "name": "Dodge This",
         "description": "Perform 10 headshot kills on Cloakers using only the Thanatos .50 cal sniper rifle. Unlocks the Suppressed Barrel for the Thanatos .50 cal sniper rifle.",
-        "rate": 2.93,
+        "rate": 3.17,
         "max": 10,
         "count": "gage3_11_stats",
         "dlc": true,
@@ -1610,7 +1610,7 @@
         "icon": "05d255e189ac3d797ee3296495ebaa233e2939a6",
         "name": "Surprise Motherfucker",
         "description": "Kill 10 Bulldozers using only the Thanatos .50 cal sniper rifle. Unlocks the CQB Barrel for the Thanatos .50 cal sniper rifle.",
-        "rate": 3.25,
+        "rate": 3.55,
         "max": 10,
         "count": "gage3_12_stats",
         "dlc": true,
@@ -1622,7 +1622,7 @@
         "icon": "b0719a060a3757fca8c572b606aae108190ff0a1",
         "name": "Didn't See That Coming Did You?",
         "description": "Kill 10 enemies using any sniper rifle while zip lining. Unlocks the Theia Magnified Scope for all sniper rifles.",
-        "rate": 2.75,
+        "rate": 2.95,
         "max": 10,
         "count": "gage3_13_stats",
         "dlc": true,
@@ -1634,7 +1634,7 @@
         "icon": "3c5ac499d1474b22c72c7ba199afe83b01b6c840",
         "name": "A Taste of Their Own Medicine",
         "description": "Kill 25 Snipers using only the Rattlesnake sniper rifle. Unlocks the Tactical Aluminium Body for the Rattlesnake sniper rifle.",
-        "rate": 2.61,
+        "rate": 2.8,
         "max": 25,
         "count": "gage3_14_stats",
         "dlc": true,
@@ -1646,7 +1646,7 @@
         "icon": "522a458dfb117cb2223407c8f6ce087f3fa4a470",
         "name": "You Can't Hide",
         "description": "Kill 25 enemies shooting through walls or objects using only the R93 sniper rifle. Unlocks the Wooden Body for the R93 sniper rifle.",
-        "rate": 2.95,
+        "rate": 3.18,
         "max": 25,
         "count": "gage3_15_stats",
         "dlc": true,
@@ -1658,7 +1658,7 @@
         "icon": "c637165a3749e7630dc2b72fcfb5a0d635078157",
         "name": "Double Kill",
         "description": "Kill 2 enemies with one bullet 25 times using only the Rattlesnake sniper rifle. Unlocks the Sniper Suppressor for the Rattlesnake sniper rifle.",
-        "rate": 2.56,
+        "rate": 2.75,
         "max": 25,
         "count": "gage3_16_stats",
         "dlc": true,
@@ -1670,7 +1670,7 @@
         "icon": "18b0cdbebbb62696ea5bf75695168697b1a672ea",
         "name": "Public Enemy No. 1",
         "description": "Kill 250 enemies using only the Rattlesnake sniper rifle. Unlocks the Long Barrel for the Rattlesnake sniper rifle.",
-        "rate": 3.43,
+        "rate": 3.65,
         "max": 250,
         "count": "gage3_17_stats",
         "dlc": true,
@@ -1688,7 +1688,7 @@
         "icon": "f61e50597ea60b3363e35b092e1ebe6f92cd0cc7",
         "name": "I Will Fade to Dark",
         "description": "In the Shadow Raid job, secure 4 bags of loot.",
-        "rate": 13.01
+        "rate": 13.89
       },
       {
         "id": "i-will-pass-through-walls",
@@ -1696,7 +1696,7 @@
         "icon": "c2a3293b506967932f149d7ed28b23ed58322df5",
         "name": "I Will Pass Through Walls",
         "description": "In the Shadow Raid job, secure at least 6 bags of loot and without killing anyone.",
-        "rate": 2.68
+        "rate": 2.93
       },
       {
         "id": "i-will-take-with-impunity",
@@ -1704,7 +1704,7 @@
         "icon": "3e3d6ec2590c0493eef5047c6567ae6dd3deda25",
         "name": "I Will Take With Impunity",
         "description": "In the Shadow Raid job, secure a piece of every available type of loot, including money, gold, cocaine, artifact, painting, weapons and server.",
-        "rate": 4.68
+        "rate": 5.12
       },
       {
         "id": "i-will-walk-faceless-among-men",
@@ -1712,7 +1712,7 @@
         "icon": "fefb017e876f68631befe1b6924bceff0e0ff069",
         "name": "I Will Walk Faceless Among Men",
         "description": "In the Shadow Raid job, secure all 4 pieces of the samurai armor. Unlocks the \"Somen Mempo\" mask.",
-        "rate": 8.04,
+        "rate": 8.7,
         "unlock": true
       },
       {
@@ -1721,7 +1721,7 @@
         "icon": "2019a764f56800d58f4bd706db60320839992324",
         "name": "I Am Ninja",
         "description": "In the Shadow Raid job, secure 16 bags of random loot and all 4 pieces of the samurai armor.",
-        "rate": 5.75
+        "rate": 6.31
       },
       {
         "id": "i-will-die-and-die-and-die-again",
@@ -1729,7 +1729,7 @@
         "icon": "25542aa39e8c6517f399f8096c6f5a451db94452",
         "name": "I Will Die and Die, and Die Again",
         "description": "Complete the Shadow Raid job on the Death Wish difficulty.",
-        "rate": 6.15,
+        "rate": 6.84,
         "difficulty": "dw"
       }
     ]
@@ -1744,7 +1744,7 @@
         "icon": "876783f37de51a5950166a4ea3de7af89287d7a4",
         "name": "It Takes Two to Tango",
         "description": "In the Big Bank job, hack the correct computer on the first try. Unlocks the \"First American\" mask and the Tactical Grip for the Falcon Rifle.",
-        "rate": 8.91,
+        "rate": 9.45,
         "unlock": true
       },
       {
@@ -1753,7 +1753,7 @@
         "icon": "1328281ab4c0ca850ce029f552ee2a954e1da488",
         "name": "It Takes a Pig to Kill a Pig",
         "description": "In the Big Bank job, drop Floyd the pig on top of an enemy. Unlocks the \"1st\" mask and the Extended Magazine for the Falcon Rifle.",
-        "rate": 2.49,
+        "rate": 2.68,
         "unlock": true
       },
       {
@@ -1762,7 +1762,7 @@
         "icon": "3a1b57eba48b0e4a23b69b0407f3afe5ea4cd9e5",
         "name": "Sweet Sixteen",
         "description": "In the Big Bank job, complete the heist having secured 16 bags. Unlocks the \"16th\" mask and the Marksman Foregrip for the Falcon Rifle.",
-        "rate": 6.57,
+        "rate": 7.11,
         "unlock": true
       },
       {
@@ -1771,7 +1771,7 @@
         "icon": "9cb1d40e51e3f6648921fca4af259d7a41e89539",
         "name": "12 Angry Minutes",
         "description": "In the Big Bank job, complete the heist in under 12 minutes on the Hard difficulty or above. Unlocks the Wooden Foregrip for the Falcon rifle.",
-        "rate": 2.67,
+        "rate": 2.95,
         "difficulty": "h",
         "unlock": true
       },
@@ -1781,8 +1781,7 @@
         "icon": "3fdce01be620c404986adcbd025c1ec3e1653993",
         "name": "Don't Bring the Heat",
         "description": "In the Big Bank job, complete the heist without triggering the alarm. Unlocks the CQB Stock for the Falcon rifle.",
-        "rate": 3.49,
-        "unlock": true,
+        "rate": 3.83,
         "unlock": true
       },
       {
@@ -1791,7 +1790,7 @@
         "icon": "31d24226c3850eab5fc2ad77ca06cdd3fb61c758",
         "name": "Backing Bobblehead Bob",
         "description": "In the Big Bank job, bring Bobblehead Bob to the vault. Unlocks the \"18th\" mask and the Wooden Stock for the Falcon rifle.",
-        "rate": 1.64,
+        "rate": 1.79,
         "unlock": true
       },
       {
@@ -1800,7 +1799,7 @@
         "icon": "7c44c25bf9e270a7d7810b9a220e4edfa457230e",
         "name": "Entrapment",
         "description": "In the Big Bank job, complete the heist with 12 bags in the default escape with the all lasers active. Unlocks the CQB Foregrip for the Falcon rifle.",
-        "rate": 1.76,
+        "rate": 1.95,
         "unlock": true
       },
       {
@@ -1809,7 +1808,7 @@
         "icon": "563b0706aa8df836503d8aaadb515a6d4cc29899",
         "name": "You Owe Me One",
         "description": "In the Big Bank job, start the Big Bank job after having spent all 10 favors in Preplanning. Unlocks the Retro Foregrip for the Falcon rifle.",
-        "rate": 10.61,
+        "rate": 11.2,
         "unlock": true
       },
       {
@@ -1818,7 +1817,7 @@
         "icon": "1f16c28a010453cb8923103ba63ed182116f526f",
         "name": "Don't Forget to Floss",
         "description": "Complete the Big Bank job on the Death Wish difficulty.",
-        "rate": 4.16,
+        "rate": 4.56,
         "difficulty": "dw"
       },
       {
@@ -1827,7 +1826,7 @@
         "icon": "5634d48a3239bca085393b7a8eb6ed0951b8f02b",
         "name": "Funding Father",
         "description": "In the Big Bank job, complete the heist while you and your four man crew are wearing one different \"Big Bank\" mask each. Unlocks the Marksman Stock for the Falcon rifle.",
-        "rate": 1.25,
+        "rate": 1.38,
         "dlc": true,
         "unlock": true
       }
@@ -1843,7 +1842,7 @@
         "icon": "48d74736d5618df4e687dcd286fb6e544c5c1407",
         "name": "Police Brutality",
         "description": "Beat a Shield to death using the Telescopic Baton.",
-        "rate": 1.73,
+        "rate": 1.92,
         "dlc": true
       },
       {
@@ -1852,7 +1851,7 @@
         "icon": "56261636fe4813e11088e1685a234afa6680abc1",
         "name": "Lock, Stock & Eight Smoking Barrels",
         "description": "Own every Shotgun. Unlocks the Flip-up Sight for the Raven shotgun.",
-        "rate": 2.29,
+        "rate": 2.52,
         "dlc": true,
         "unlock": true
       },
@@ -1862,7 +1861,7 @@
         "icon": "ff90d826541e004b3e91267257841f5cf670f99f",
         "name": "Swing Dancing",
         "description": "Complete any single day of a job, killing at least 50 enemies using only your melee weapon.",
-        "rate": 1.09
+        "rate": 1.22
       },
       {
         "id": "seven-eleven",
@@ -1870,7 +1869,7 @@
         "icon": "e596d3e11328c526a5e0f8a157aa8b9494bc4e7a",
         "name": "Seven Eleven",
         "description": "Get 7 enemy headshot kills within 11 seconds using any shotgun. Unlocks the Short Barrel for the M1014 shotgun, \"John\" mask, \"Explosive\" material and \"Terror\" pattern.",
-        "rate": 8.44,
+        "rate": 9.19,
         "unlock": true
       },
       {
@@ -1879,7 +1878,7 @@
         "icon": "8e8a408b71c459ed689a6d72e3cda22a2fc25284",
         "name": "Shotgun 101",
         "description": "Kill at least 50 enemies and get 101% accuracy or above using any shotgun. Unlocks the Long Barrel for the M1014 shotgun.",
-        "rate": 1.32,
+        "rate": 1.49,
         "unlock": true
       },
       {
@@ -1888,7 +1887,7 @@
         "icon": "c4930b9f7b6c1428be52473caf5e40eb627b598c",
         "name": "Knock, Knock",
         "description": "Kill 50 Shields using any shotgun and slug ammo. Unlocks the Collapsed Stock for the M1014 shotgun.",
-        "rate": 1.37,
+        "rate": 1.54,
         "max": 50,
         "count": "gage4_6_stats",
         "dlc": true,
@@ -1900,7 +1899,7 @@
         "icon": "2553f73cd6afb7fa8e9dc843de82e00f349c7353",
         "name": "Everyday I'm Shovelin'",
         "description": "On the Night Club heist, kill 25 law enforcers using your shovel. Unlocks the Short Barrel for the Raven shotgun.",
-        "rate": 1.79,
+        "rate": 1.98,
         "max": 25,
         "count": "gage4_7_stats",
         "dlc": true,
@@ -1912,7 +1911,7 @@
         "icon": "f148137ffd5331d20c9974846a6d871e84ab2361",
         "name": "Clay Pigeon Shooting",
         "description": "Kill 10 snipers using any shotgun and flechette ammo. Unlocks the Long Barrel for the Raven shotgun, \"Clint\" mask, \"Leaf\" material and \"Monkey Skull\" pattern.",
-        "rate": 1.73,
+        "rate": 1.94,
         "max": 10,
         "count": "gage4_8_stats",
         "dlc": true,
@@ -1924,7 +1923,7 @@
         "icon": "473b7137ab940956a40aece86ad6aeaaabbc2bb1",
         "name": "Shock and Awe",
         "description": "Hit 4 enemies simultaneously using any shotgun and HE rounds. Unlocks the Solid Stock for the M1014 shotgun.",
-        "rate": 2.82,
+        "rate": 3.13,
         "dlc": true,
         "unlock": true
       },
@@ -1934,7 +1933,7 @@
         "icon": "64897fc916e64ba9e29ec17bcc969300e018f022",
         "name": "Bang for the Buck",
         "description": "Kill 10 Bulldozers using any shotgun and 000 buckshot ammo. Unlocks the Long Barrel for the Street Sweeper shotgun, \"Steven\" mask, \"Sparks\" material and \"Chief\" pattern.",
-        "rate": 1.43,
+        "rate": 1.62,
         "max": 10,
         "count": "gage4_10_stats",
         "unlock": true
@@ -1945,7 +1944,7 @@
         "icon": "4d6d5f936aae681c1f808db459351acceaf73bca",
         "name": "No Heist for Old Men",
         "description": "Complete any heist in stealth with a silenced Locomotive 12G shotgun equipped. Unlocks the Suppressed Barrel for the Street Sweeper shotgun, \"Rutger\" mask, \"Banana Peel\" material and \"Banana\" pattern.",
-        "rate": 2.6,
+        "rate": 2.8,
         "unlock": true
       },
       {
@@ -1954,7 +1953,7 @@
         "icon": "185425e852dfde131d5449d28cb4129fd3db56b4",
         "name": "Four Monkeys",
         "description": "In the Rats job, complete the heist while you and your four man crew are wearing one different \"Shotgun Pack\" mask each on OVERKILL difficulty or above.",
-        "rate": 1.11,
+        "rate": 1.25,
         "dlc": true,
         "difficulty": "ok"
       }
@@ -1970,7 +1969,7 @@
         "icon": "953bd9c3c3f878836ce5ab802477a51e2447836f",
         "name": "Precision Aiming",
         "description": "Kill 25 Bulldozers using the Gewehr 3 Rifle. Unlocks the Sniper Barrel for the Clarion rifle, Sniper Stock, Sniper Grip and Sniper Foregrip for the Gecko 7.62 rifle, Precision Stock, Precision Grip and the DMR Kit for the Gewehr 3 rifle as well as the \"Black Death\" mask.",
-        "rate": 0.89,
+        "rate": 1.08,
         "max": 25,
         "count": "gage5_1_stats",
         "dlc": true,
@@ -1982,7 +1981,7 @@
         "icon": "08610270403e9776e0f74c55953c118cbd6b7aac",
         "name": "Big Bada Boom",
         "description": "Kill at least four enemies with one GL40 grenade launcher shot. Unlocks the Pirate Stock for the GL40 grenade launcher and the \"Crow Goblin\" mask.",
-        "rate": 2.02,
+        "rate": 2.39,
         "dlc": true,
         "unlock": true
       },
@@ -1992,7 +1991,7 @@
         "icon": "89a51df42ef6bf960f4c6e89ee9dec72ffae0e93",
         "name": "Army of One",
         "description": "Equip the GL40 grenade launcher, the Locomotive 12G shotgun and the Improved Combined Tactical Vest. Unlocks the CQB Foregrip and Plastic Stock for the Gecko 7.62 rifle.",
-        "rate": 1.55,
+        "rate": 1.83,
         "dlc": true,
         "unlock": true
       },
@@ -2002,7 +2001,7 @@
         "icon": "46467666f67523db140d3bcf13d1d545f1018b6f",
         "name": "So Many Choices",
         "description": "Own one of every Gage Assault Pack weapon in the game. Unlocks the Short Barrel for the Clarion rifle, Light Stock for the Gecko 7.62 rifle, Plastic Foregrip and Short Barrel for the Gewehr 3 rifle, \"Evil\" material and \"Vicious\" pattern.",
-        "rate": 2.1,
+        "rate": 2.46,
         "dlc": true,
         "unlock": true
       },
@@ -2012,7 +2011,7 @@
         "icon": "caafccfcb58950a3d1d203ab6d43100762f41323",
         "name": "Artillery Barrage",
         "description": "Kill 25 enemies at 40 meters or more using only the GL40 grenade launcher. Unlocks the Wooden Stock for the Gecko 7.62 rifle, Pirate Barrel for the GL40 grenade launcher, \"Bone\" material and \"Muerte\" pattern.",
-        "rate": 0.96,
+        "rate": 1.14,
         "max": 25,
         "count": "gage5_5_stats",
         "dlc": true,
@@ -2024,7 +2023,7 @@
         "icon": "0bd7d51f9651fe8234bc84c9ea072f15c1a4c785",
         "name": "Unusual Suspects",
         "description": "In the Watchdogs job, complete the heist while you and your four man crew are wearing one different Assault Pack mask each on OVERKILL difficulty or above. Unlocks the Light Foregrip for the Gecko 7.62 rifle, Tactical Foregrip for the Gewehr 3 rifle, Long Barrel for the Clarion rifle, \"Void\" material and \"Death\" pattern.",
-        "rate": 0.84,
+        "rate": 1.01,
         "dlc": true,
         "difficulty": "ok",
         "unlock": true
@@ -2035,7 +2034,7 @@
         "icon": "5ab6b0f7a19e78f2eaa6eef60bea743bb975c3c0",
         "name": "Not Today",
         "description": "Kill a jumping Cloaker using the GL40 grenade launcher. Unlocks the Wooden Stock, Retro Grip and Wooden Foregrip for the Gewehr 3 rifle.",
-        "rate": 0.87,
+        "rate": 1.05,
         "dlc": true,
         "unlock": true
       },
@@ -2045,7 +2044,7 @@
         "icon": "f92acb6b9bc4af28668ea8cf99a2bc642b5e9f68",
         "name": "Hammertime",
         "description": "Kill 25 thugs using the Ding Dong breaching tool melee weapon. Unlocks the \"Frost\" material and \"Emperor\" pattern.",
-        "rate": 0.96,
+        "rate": 1.13,
         "max": 25,
         "count": "gage5_8_stats",
         "dlc": true,
@@ -2057,7 +2056,7 @@
         "icon": "126b0a4203a6355cb5eaefb21128637ce14f9684",
         "name": "Rabbit Hunting",
         "description": "Kill 10 Cloakers using the Gecko 7.62 rifle. Unlocks the Skeletal Stock, Fabulous Stock and Fabulous Foregrip for the Gecko 7.62 rifle as well as the \"Volt\" mask.",
-        "rate": 1.25,
+        "rate": 1.5,
         "max": 10,
         "count": "gage5_9_stats",
         "dlc": true,
@@ -2069,7 +2068,7 @@
         "icon": "42ca9b366560463cfbb35b2383a3f0212c51858b",
         "name": "Tour de Clarion",
         "description": "Kill 200 enemies using the Clarion rifle. Unlocks the Suppressed Barrel and Retro Grip for the Clarion rifle as well as the \"Professor Wrath\" mask.",
-        "rate": 1.64,
+        "rate": 1.96,
         "max": 200,
         "count": "gage5_10_stats",
         "dlc": true,
@@ -2087,7 +2086,7 @@
         "icon": "b2ce8ecfb915cdb0149a13e4e8510fa3ea5e89d1",
         "name": "Wrong Number",
         "description": "Complete the Hotline Miami job on the Death Wish difficulty.",
-        "rate": 0.87,
+        "rate": 1.11,
         "difficulty": "dw"
       },
       {
@@ -2096,7 +2095,7 @@
         "icon": "32477ea3535953143f51270eb1a29cba33befa20",
         "name": "Walk Faster",
         "description": "In day two of the Hotline Miami job, reach the Commissar's apartment in under 210 seconds on the OVERKILL difficulty or above. Unlocks the Rasmus mask, Tactical Foregrip and the Ergonomic Stock for the Uzi submachine gun, \"Chromescape\" material and \"Palmtrees\" pattern.",
-        "rate": 2.06,
+        "rate": 2.46,
         "difficulty": "ok",
         "unlock": true
       },
@@ -2106,7 +2105,7 @@
         "icon": "b8033987d025a57bbe2ca2e2b7e30217a399cff0",
         "name": "Do You Like Hurting Other People?",
         "description": "In the Hotline Miami job, kill 30 thugs with the Baseball Bat. Unlocks the Dennis mask, Solid Stock for the Uzi submachine gun, Wooden Grip for the Cobra submachine gun, \"Rubber\" material and \"Hip to Be Polygon\" pattern.",
-        "rate": 1.02,
+        "rate": 1.21,
         "max": 30,
         "count": "pig_3_stats",
         "dlc": true,
@@ -2118,7 +2117,7 @@
         "icon": "2e49b6d7b825bb549bdc06121a4cc464088189cc",
         "name": "Overdose",
         "description": "Cook and secure six bags of meth on day one of the Hotline Miami job. Unlocks the Graham mask, Ghetto Blaster, Extended Mag and Just Bend It for the Blaster 9mm submachine gun, \"Error\" material and \"Be Somebody\" pattern.",
-        "rate": 1.66,
+        "rate": 2,
         "unlock": true
       },
       {
@@ -2127,7 +2126,7 @@
         "icon": "bae94952d84a35707525e648490aa115bc61ef1a",
         "name": "Sounds of Animals Fighting",
         "description": "In the Hotline Miami job, complete the heist while you and your four man crew are wearing one different Hotline Miami mask each on hard or above. Unlocks the Silent Death and the Folded Stock for the Uzi submachine gun, Suppressor and No Stock for the Cobra submachine gun and Short Barrel for the Blaster 9mm submachine gun.",
-        "rate": 0.74,
+        "rate": 0.91,
         "dlc": true,
         "difficulty": "h",
         "unlock": true
@@ -2138,7 +2137,7 @@
         "icon": "f383ed9c4e4f0e3b52f346f797e8a9fa33d0c0f1",
         "name": "+1 (786) 519-3708",
         "description": "Complete the Hotline Miami pro job on the Death Wish difficulty.",
-        "rate": 1.19,
+        "rate": 1.54,
         "difficulty": "dw"
       },
       {
@@ -2147,7 +2146,7 @@
         "icon": "de813e291ffe726c29e75ee9e0c4679770800b1d",
         "name": "Phew!",
         "description": "On day two of the Hotline Miami job, save someone in need. Unlocks the Aubrey mask, Ergo Grip, Extended Mag and Unfolded Stock for the Cobra submachine gun, \"Sunset\" material and \"Doodles\" pattern.",
-        "rate": 4.32,
+        "rate": 5.06,
         "unlock": true
       }
     ]
@@ -2162,7 +2161,7 @@
         "icon": "5411761c0c7175e9dc0985cf8d266484b25f0aa8",
         "name": "State of the Art",
         "description": "Complete the Art Gallery heist on the Death Wish difficulty.",
-        "rate": 1.22,
+        "rate": 1.78,
         "difficulty": "dw"
       },
       {
@@ -2171,7 +2170,7 @@
         "icon": "990df7f57761410dc89840a19339ab6140e6e21a",
         "name": "Why Don't We Just Use a Spoon?",
         "description": "Complete the Hoxton Breakout heist on any difficulty.",
-        "rate": 6.46
+        "rate": 8.93
       },
       {
         "id": "no-bars-can-hold-me",
@@ -2179,7 +2178,7 @@
         "icon": "e1d65e436b74db1ce1cae6901cd91949db5952e8",
         "name": "No Bars Can Hold Me",
         "description": "Complete the Hoxton Breakout heist on the Death Wish difficulty.",
-        "rate": 0.49,
+        "rate": 0.94,
         "difficulty": "dw"
       },
       {
@@ -2188,7 +2187,7 @@
         "icon": "49d850d07e8b53b16ce37e373f9f9b7ea0b03cea",
         "name": "Havoc in the Streets",
         "description": "Complete the Hoxton Breakout pro job heist on Death Wish difficulty",
-        "rate": 0.88,
+        "rate": 1.74,
         "difficulty": "dw"
       },
       {
@@ -2197,7 +2196,7 @@
         "icon": "338242c5f1a6c564f2896e8bfe97f3ea5b9072cc",
         "name": "Cavity",
         "description": "Hurt an enemy using the Nova's Shank melee weapon.",
-        "rate": 2.49,
+        "rate": 3.86,
         "community": true
       }
     ]
@@ -2212,9 +2211,70 @@
         "icon": "92b1970d1b99aa82b4d0df0dbdffefa046e35d73",
         "name": "Fifth Nightmare",
         "description": "This is a secret achievement. It is only obtainable during the Annual Halloween Event!",
-        "rate": 1.48,
+        "rate": 2.16,
         "event": true,
         "difficulty": "dw",
+        "unlock": true
+      }
+    ]
+  },
+  {
+    "id": "gage-historical-pack",
+    "name": "Gage Historical Pack",
+    "data": [
+      {
+        "id": "death-from-below",
+        "api": "eagle_1",
+        "icon": "a7355f05112bc66fb71c4451d4f94e6da33caada",
+        "name": "Death From Below",
+        "description": "Kill 25 enemies as they rappel using the Nagant sniper rifle. Unlocks the Constable mask, the Silenced Barrel and the Long Barrel for the Nagant sniper rifle, \"Gunsmoke\" material and \"Dazzle\" pattern.",
+        "rate": 0.09,
+        "max": 25,
+        "count": "eagle_1_stats",
+        "dlc": true,
+        "unlock": true
+      },
+      {
+        "id": "special-operations-execution",
+        "api": "eagle_2",
+        "icon": "bed53f25cb83d16d88fbe111b984fed3b1791017",
+        "name": "Special Operations Execution",
+        "description": "Kill 25 enemies while in stealth using the Trench knife. Unlocks the Red Bear mask, Short Barrel, Suppressed Barrel, Short Mag, Folded Stock, No Stock, Solid Stock, Heatsinked Suppressed Barrel for the Patchett L2A1 submachine gun, Barrel Sight 44, Damper.L 44 Nozzle for the Broomstick pistol, \"Red Sun\" material and \"Death Dealer\" pattern.",
+        "rate": 0.16,
+        "max": 25,
+        "count": "eagle_2_stats",
+        "dlc": true,
+        "unlock": true
+      },
+      {
+        "id": "wind-of-change",
+        "api": "eagle_3",
+        "icon": "df047f029e442fad4cfdd4568a2d65ab6073fd50",
+        "name": "Wind of Change",
+        "description": "In the Hoxton Breakout job, complete the heist while you and your four man crew are wearing one different \"Historical\" mask each on OVERKILL difficulty or above. Unlocks the Discrete Stock and Short Barrel for the Nagant sniper rifle, Precision Barrel for the Broomstick pistol, Extended Mag and Long Barrel for the Patchett L2A1 submachine gun and the Heatsinked Suppressed Barrel for the Buzzsaw 42 light machine gun.",
+        "rate": 0.08,
+        "dlc": true,
+        "difficulty": "ok",
+        "unlock": true
+      },
+      {
+        "id": "so-uncivilized",
+        "api": "eagle_4",
+        "icon": "a19a6ff9f876864933c5627eec383018ceea4c51",
+        "name": "So Uncivilized",
+        "description": "Equip a Broomstick pistol with the Damper.L 44 Nozzle and the Barrel Sight 44. Unlocks the British Bulldog mask, High Capacity Mag and Holster Stock for the Broomstick pistol, \"Army Green\" material and \"Filthy Thirteen\" pattern.",
+        "rate": 0.17,
+        "dlc": true,
+        "unlock": true
+      },
+      {
+        "id": "bullet-hell",
+        "api": "eagle_5",
+        "icon": "d7f34dc20f4fa5e01200e3d9e0f03112fcdaa161",
+        "name": "Bullet Hell",
+        "description": "Kill 10 enemies within 10 seconds using the Buzzsaw 42 light machine gun. Unlocks the Old Blood and Guts mask, Light Barrel for the Buzzsaw 42 light machine gun, \"Patriot\" material and \"Captain War\" pattern.",
+        "rate": 0.13,
+        "dlc": true,
         "unlock": true
       }
     ]
