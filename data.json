@@ -549,7 +549,7 @@
         "description": "While wearing the \"Hockey Heat\" mask, finish any Armored Transport heist 15 times on OVERKILL difficulty or above.",
         "rate": 1.8,
         "max": 15,
-        "count": "armored_4_stats",
+        "count": "armored_4_stat",
         "community": true,
         "difficulty": "ok"
       },
@@ -561,7 +561,7 @@
         "description": "Kill 378 enemies using the Gruber Kurz handgun.",
         "rate": 3.24,
         "max": 378,
-        "count": "armored_5_stats",
+        "count": "armored_5_stat",
         "dlc": true
       },
       {
@@ -580,7 +580,7 @@
         "description": "While wearing the \"37th\" mask, destroy 69 snipers using the Commando 553 rifle.",
         "rate": 1.73,
         "max": 69,
-        "count": "armored_7_stats",
+        "count": "armored_7_stat",
         "dlc": true
       },
       {
@@ -591,7 +591,7 @@
         "description": "While wearing the \"42nd\" mask, trade 7 civilians.",
         "rate": 1.65,
         "max": 7,
-        "count": "armored_8_stats",
+        "count": "armored_8_stat",
         "dlc": true
       },
       {
@@ -602,7 +602,7 @@
         "description": "While wearing the \"43rd\" mask, kill 95 Shields using the Swedish K submachine gun.",
         "rate": 1.69,
         "max": 95,
-        "count": "armored_9_stats",
+        "count": "armored_9_stat",
         "dlc": true
       },
       {
@@ -613,7 +613,7 @@
         "description": "While wearing the \"44th\" mask, place 61 doctor bags.",
         "rate": 1.9,
         "max": 61,
-        "count": "armored_10_stats",
+        "count": "armored_10_stat",
         "dlc": true
       },
       {
