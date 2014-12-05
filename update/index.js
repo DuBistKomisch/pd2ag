@@ -55,6 +55,7 @@ function process()
   var matched = 0;
   var updated = 0;
   var unmatched = [];
+  var newSection = null;
 
   // add missing
   meta: for (var i = 0; i < mainMeta.length; ++i)
@@ -62,6 +63,8 @@ function process()
     for (var j = 0; j < data.length; ++j)
       if (findAchievement(data[j].data, mainMeta[i].apiname) != null)
         continue meta;
+    if (newSection == null)
+      data.push(newSection = {'id': 'test', 'name': 'Test', 'data': []});
     var node = {
       'id': slug(mainMeta[i].name).toLowerCase(),
       'api': mainMeta[i].apiname,
@@ -70,7 +73,7 @@ function process()
       'description': mainMeta[i].description,
       'rate': 0.0
     };
-    data[0].data.push(node);
+    newSection.data.push(node);
     added++;
   }
 
