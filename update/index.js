@@ -12,7 +12,7 @@ http.get({host: 'api.steampowered.com', path: '/ISteamUserStats/GetGlobalAchieve
   var response = '';
   res.on('data', function (chunk) {
     response += chunk;
-    util.print('[stat] downloading ' + Math.round(response.length / res.headers['content-length'] * 100) + '%\r');
+    process.stdout.write('[stat] downloading ' + Math.round(response.length / res.headers['content-length'] * 100) + '%\r');
   }).on('end', function () {
     console.log();
     global = response;
@@ -20,11 +20,11 @@ http.get({host: 'api.steampowered.com', path: '/ISteamUserStats/GetGlobalAchieve
       var response = '';
       res.on('data', function (chunk) {
         response += chunk;
-        util.print('[meta] downloading ' + Math.round(response.length / res.headers['content-length'] * 100) + '%\r');
+        process.stdout.write('[meta] downloading ' + Math.round(response.length / res.headers['content-length'] * 100) + '%\r');
       }).on('end', function () {
         console.log();
         meta = response;
-        process();
+        go();
       });
     }).on('error', function (e) {
       console.log('error: ' + e.message);
@@ -34,7 +34,7 @@ http.get({host: 'api.steampowered.com', path: '/ISteamUserStats/GetGlobalAchieve
   console.log('error: ' + e.message);
 });
 
-function process()
+function go()
 {
   // get steam data
   var tree = JSON.parse(global);
