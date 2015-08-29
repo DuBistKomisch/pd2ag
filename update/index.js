@@ -1,6 +1,5 @@
 var fs = require('fs');
 var http = require('http');
-var util = require('util');
 var xml2json = require('xml2json');
 var slug = require('slug');
 
